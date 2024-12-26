@@ -1,0 +1,141 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_lili_men_chapter_24_12_png_jpg.rf.2bed912592b537f377e993176bed7ba3",
+        "name": "ja_lili_men_chapter_24_12_png_jpg.rf.2bed912592b537f377e993176bed7ba3.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_lili_men_chapter_24_12_png_jpg.rf.2bed912592b537f377e993176bed7ba3.jpg",
+        "size": {
+            "width": 512,
+            "height": 728
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "IqRH9iheFR",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 431.58828748890863,
+                "top": 291.2,
+                "width": 47.70186335403727,
+                "height": 118.3
+            },
+            "points": [
+                {
+                    "x": 431.58828748890863,
+                    "y": 291.2
+                },
+                {
+                    "x": 479.2901508429459,
+                    "y": 291.2
+                },
+                {
+                    "x": 479.2901508429459,
+                    "y": 409.5
+                },
+                {
+                    "x": 431.58828748890863,
+                    "y": 409.5
+                }
+            ]
+        },
+        {
+            "id": "mU4hEmc7l6j",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 293.0257320319432,
+                "top": 364.0,
+                "width": 89.72493345164153,
+                "height": 92.1375
+            },
+            "points": [
+                {
+                    "x": 293.0257320319432,
+                    "y": 364.0
+                },
+                {
+                    "x": 382.7506654835847,
+                    "y": 364.0
+                },
+                {
+                    "x": 382.7506654835847,
+                    "y": 456.1375
+                },
+                {
+                    "x": 293.0257320319432,
+                    "y": 456.1375
+                }
+            ]
+        },
+        {
+            "id": "2SwnKQKw0sW",
+            "type": "RECTANGLE",
+            "tags": [
+                "exteriorvoice_bubble"
+            ],
+            "boundingBox": {
+                "height": 149.76351351351354,
+                "width": 114.67864010404638,
+                "left": 185.16164383561645,
+                "top": 295.75
+            },
+            "points": [
+                {
+                    "x": 185.16164383561645,
+                    "y": 295.75
+                },
+                {
+                    "x": 299.8402839396628,
+                    "y": 295.75
+                },
+                {
+                    "x": 299.8402839396628,
+                    "y": 445.5135135135135
+                },
+                {
+                    "x": 185.16164383561645,
+                    "y": 445.5135135135135
+                }
+            ]
+        },
+        {
+            "id": "AUPaAjdWza9",
+            "type": "RECTANGLE",
+            "tags": [
+                "exteriorvoice_bubble"
+            ],
+            "boundingBox": {
+                "height": 113.75,
+                "width": 88.58917480035493,
+                "left": 38.61579414374446,
+                "top": 345.8
+            },
+            "points": [
+                {
+                    "x": 38.61579414374446,
+                    "y": 345.8
+                },
+                {
+                    "x": 127.20496894409938,
+                    "y": 345.8
+                },
+                {
+                    "x": 127.20496894409938,
+                    "y": 459.54999999999995
+                },
+                {
+                    "x": 38.61579414374446,
+                    "y": 459.54999999999995
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

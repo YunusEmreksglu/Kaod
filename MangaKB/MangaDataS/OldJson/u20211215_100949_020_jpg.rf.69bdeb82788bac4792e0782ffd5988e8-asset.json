@@ -1,0 +1,265 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "u20211215_100949_020_jpg.rf.69bdeb82788bac4792e0782ffd5988e8",
+        "name": "u20211215_100949_020_jpg.rf.69bdeb82788bac4792e0782ffd5988e8.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\u20211215_100949_020_jpg.rf.69bdeb82788bac4792e0782ffd5988e8.jpg",
+        "size": {
+            "width": 484,
+            "height": 4096
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "11283",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 125,
+                "top": 1016,
+                "width": 288.24,
+                "height": 109.12
+            },
+            "points": [
+                {
+                    "x": 125,
+                    "y": 1016
+                },
+                {
+                    "x": 413.24,
+                    "y": 1016
+                },
+                {
+                    "x": 413.24,
+                    "y": 1125.12
+                },
+                {
+                    "x": 125,
+                    "y": 1125.12
+                }
+            ]
+        },
+        {
+            "id": "11284",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 61,
+                "top": 1222,
+                "width": 368.52,
+                "height": 153.29
+            },
+            "points": [
+                {
+                    "x": 61,
+                    "y": 1222
+                },
+                {
+                    "x": 429.52,
+                    "y": 1222
+                },
+                {
+                    "x": 429.52,
+                    "y": 1375.29
+                },
+                {
+                    "x": 61,
+                    "y": 1375.29
+                }
+            ]
+        },
+        {
+            "id": "11285",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 79,
+                "top": 1543,
+                "width": 325.14,
+                "height": 135.61
+            },
+            "points": [
+                {
+                    "x": 79,
+                    "y": 1543
+                },
+                {
+                    "x": 404.14,
+                    "y": 1543
+                },
+                {
+                    "x": 404.14,
+                    "y": 1678.6100000000001
+                },
+                {
+                    "x": 79,
+                    "y": 1678.6100000000001
+                }
+            ]
+        },
+        {
+            "id": "11286",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 122,
+                "top": 2169,
+                "width": 249.45,
+                "height": 107.82
+            },
+            "points": [
+                {
+                    "x": 122,
+                    "y": 2169
+                },
+                {
+                    "x": 371.45,
+                    "y": 2169
+                },
+                {
+                    "x": 371.45,
+                    "y": 2276.82
+                },
+                {
+                    "x": 122,
+                    "y": 2276.82
+                }
+            ]
+        },
+        {
+            "id": "11287",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 174,
+                "top": 3830,
+                "width": 273.34,
+                "height": 111.07
+            },
+            "points": [
+                {
+                    "x": 174,
+                    "y": 3830
+                },
+                {
+                    "x": 447.34,
+                    "y": 3830
+                },
+                {
+                    "x": 447.34,
+                    "y": 3941.07
+                },
+                {
+                    "x": 174,
+                    "y": 3941.07
+                }
+            ]
+        },
+        {
+            "id": "11288",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 26,
+                "top": 373,
+                "width": 428.88,
+                "height": 170.49
+            },
+            "points": [
+                {
+                    "x": 26,
+                    "y": 373
+                },
+                {
+                    "x": 454.88,
+                    "y": 373
+                },
+                {
+                    "x": 454.88,
+                    "y": 543.49
+                },
+                {
+                    "x": 26,
+                    "y": 543.49
+                }
+            ]
+        },
+        {
+            "id": "11289",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 47,
+                "top": 0,
+                "width": 359.68,
+                "height": 139.2
+            },
+            "points": [
+                {
+                    "x": 47,
+                    "y": 0
+                },
+                {
+                    "x": 406.68,
+                    "y": 0
+                },
+                {
+                    "x": 406.68,
+                    "y": 139.2
+                },
+                {
+                    "x": 47,
+                    "y": 139.2
+                }
+            ]
+        },
+        {
+            "id": "11290",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 89,
+                "top": 676,
+                "width": 338.49,
+                "height": 133.76
+            },
+            "points": [
+                {
+                    "x": 89,
+                    "y": 676
+                },
+                {
+                    "x": 427.49,
+                    "y": 676
+                },
+                {
+                    "x": 427.49,
+                    "y": 809.76
+                },
+                {
+                    "x": 89,
+                    "y": 809.76
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

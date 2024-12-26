@@ -1,0 +1,110 @@
+{
+  "asset": {
+    "format": "jpg",
+    "id": "o049_jpg.rf.d90b8b3dc7558985fd8b49e6363f9333",
+    "name": "o049_jpg.rf.d90b8b3dc7558985fd8b49e6363f9333.jpg",
+    "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\o049_jpg.rf.d90b8b3dc7558985fd8b49e6363f9333.jpg",
+    "size": {
+      "width": 512,
+      "height": 728
+    },
+    "state": 3,
+    "type": 1
+  },
+  "regions": [
+    {
+      "id": "xiyFDwci4F",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 234.0,
+        "top": 335.0,
+        "width": 61.0,
+        "height": 95.0
+      },
+      "points": [
+        {
+          "x": 234.0,
+          "y": 335.0
+        },
+        {
+          "x": 295.0,
+          "y": 335.0
+        },
+        {
+          "x": 295.0,
+          "y": 430.0
+        },
+        {
+          "x": 234.0,
+          "y": 430.0
+        }
+      ]
+    },
+    {
+      "id": "4SvjQdXxdP",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 221.0,
+        "top": 474.0,
+        "width": 39.0,
+        "height": 66.0
+      },
+      "points": [
+        {
+          "x": 221.0,
+          "y": 474.0
+        },
+        {
+          "x": 260.0,
+          "y": 474.0
+        },
+        {
+          "x": 260.0,
+          "y": 540.0
+        },
+        {
+          "x": 221.0,
+          "y": 540.0
+        }
+      ]
+    },
+    {
+      "id": "t_oVi9au1u",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 214.0,
+        "top": 14.0,
+        "width": 59.0,
+        "height": 95.0
+      },
+      "points": [
+        {
+          "x": 214.0,
+          "y": 14.0
+        },
+        {
+          "x": 273.0,
+          "y": 14.0
+        },
+        {
+          "x": 273.0,
+          "y": 109.0
+        },
+        {
+          "x": 214.0,
+          "y": 109.0
+        }
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+  "asset": {
+    "format": "jpg",
+    "id": "l20191230_211706_1449_jpg.rf.dbbedbac3b8b9b121bc2087c6ca39b21",
+    "name": "l20191230_211706_1449_jpg.rf.dbbedbac3b8b9b121bc2087c6ca39b21.jpg",
+    "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\l20191230_211706_1449_jpg.rf.dbbedbac3b8b9b121bc2087c6ca39b21.jpg",
+    "size": {
+      "width": 512,
+      "height": 728
+    },
+    "state": 1,
+    "type": 1
+  },
+  "regions": [
+    {
+      "id": "NzMAi8o1QT",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 97.0,
+        "top": 319.0,
+        "width": 104.0,
+        "height": 79.0
+      },
+      "points": [
+        {
+          "x": 97.0,
+          "y": 319.0
+        },
+        {
+          "x": 201.0,
+          "y": 319.0
+        },
+        {
+          "x": 201.0,
+          "y": 398.0
+        },
+        {
+          "x": 97.0,
+          "y": 398.0
+        }
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

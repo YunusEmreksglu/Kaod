@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_lili_men_chapter_19_00_png_jpg.rf.fe5425bff1a63b1d5f33e8d8e96827f2",
+        "name": "ja_lili_men_chapter_19_00_png_jpg.rf.fe5425bff1a63b1d5f33e8d8e96827f2.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_lili_men_chapter_19_00_png_jpg.rf.fe5425bff1a63b1d5f33e8d8e96827f2.jpg",
+        "size": {
+            "width": 1127,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UqutoahiDM",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 40,
+                "top": 668,
+                "width": 365,
+                "height": 452.5
+            },
+            "points": [
+                {
+                    "x": 40,
+                    "y": 668
+                },
+                {
+                    "x": 405,
+                    "y": 668
+                },
+                {
+                    "x": 405,
+                    "y": 1120.5
+                },
+                {
+                    "x": 40,
+                    "y": 1120.5
+                }
+            ]
+        },
+        {
+            "id": "cc9feM4UBQB",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 755,
+                "top": 498,
+                "width": 242.5,
+                "height": 355
+            },
+            "points": [
+                {
+                    "x": 755,
+                    "y": 498
+                },
+                {
+                    "x": 997.5,
+                    "y": 498
+                },
+                {
+                    "x": 997.5,
+                    "y": 853
+                },
+                {
+                    "x": 755,
+                    "y": 853
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

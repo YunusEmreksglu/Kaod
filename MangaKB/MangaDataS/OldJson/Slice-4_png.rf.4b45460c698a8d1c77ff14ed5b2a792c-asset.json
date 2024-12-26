@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "Slice-4_png.rf.4b45460c698a8d1c77ff14ed5b2a792c",
+        "name": "Slice-4_png.rf.4b45460c698a8d1c77ff14ed5b2a792c.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\Slice-4_png.rf.4b45460c698a8d1c77ff14ed5b2a792c.jpg",
+        "size": {
+            "width": 799,
+            "height": 1597
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "24502",
+            "type": "RECTANGLE",
+            "tags": [
+                "Innervoice_bubble"
+            ],
+            "boundingBox": {
+                "height": 479.40830115830113,
+                "width": 612.3610038610038,
+                "left": 32.39189189189189,
+                "top": 15.415057915057915
+            },
+            "points": [
+                {
+                    "x": 32.39189189189189,
+                    "y": 15.415057915057915
+                },
+                {
+                    "x": 644.7528957528957,
+                    "y": 15.415057915057915
+                },
+                {
+                    "x": 644.7528957528957,
+                    "y": 494.8233590733591
+                },
+                {
+                    "x": 32.39189189189189,
+                    "y": 494.8233590733591
+                }
+            ]
+        },
+        {
+            "id": "24503",
+            "type": "RECTANGLE",
+            "tags": [
+                "Innervoice_bubble"
+            ],
+            "boundingBox": {
+                "height": 530.2779922779923,
+                "width": 563.0019305019305,
+                "left": 0,
+                "top": 1057.472972972973
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 1057.472972972973
+                },
+                {
+                    "x": 563.0019305019305,
+                    "y": 1057.472972972973
+                },
+                {
+                    "x": 563.0019305019305,
+                    "y": 1587.7509652509652
+                },
+                {
+                    "x": 0,
+                    "y": 1587.7509652509652
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

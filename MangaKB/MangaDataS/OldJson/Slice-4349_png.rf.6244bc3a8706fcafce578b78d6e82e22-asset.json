@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "Slice-4349_png.rf.6244bc3a8706fcafce578b78d6e82e22",
+        "name": "Slice-4349_png.rf.6244bc3a8706fcafce578b78d6e82e22.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\Slice-4349_png.rf.6244bc3a8706fcafce578b78d6e82e22.jpg",
+        "size": {
+            "width": 798,
+            "height": 2145
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9881",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 87,
+                "top": 102,
+                "width": 488.61,
+                "height": 355.64
+            },
+            "points": [
+                {
+                    "x": 87,
+                    "y": 102
+                },
+                {
+                    "x": 575.61,
+                    "y": 102
+                },
+                {
+                    "x": 575.61,
+                    "y": 457.64
+                },
+                {
+                    "x": 87,
+                    "y": 457.64
+                }
+            ]
+        },
+        {
+            "id": "9882",
+            "type": "RECTANGLE",
+            "tags": [
+                "thought_bubble"
+            ],
+            "boundingBox": {
+                "height": 570.3892664092663,
+                "width": 592.1,
+                "left": 145,
+                "top": 1567.3407335907336
+            },
+            "points": [
+                {
+                    "x": 145,
+                    "y": 1567.3407335907336
+                },
+                {
+                    "x": 737.1000000000001,
+                    "y": 1567.3407335907336
+                },
+                {
+                    "x": 737.1000000000001,
+                    "y": 2137.73
+                },
+                {
+                    "x": 145,
+                    "y": 2137.73
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,79 @@
+{
+  "asset": {
+    "format": "jpg",
+    "id": "spiderman-01-01_jpg.rf.62886fd453717f187838f5ecebb227ee",
+    "name": "spiderman-01-01_jpg.rf.62886fd453717f187838f5ecebb227ee.jpg",
+    "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\spiderman-01-01_jpg.rf.62886fd453717f187838f5ecebb227ee.jpg",
+    "size": {
+      "width": 512,
+      "height": 728
+    },
+    "state": 2,
+    "type": 1
+  },
+  "regions": [
+    {
+      "id": "f__YncxLxJ",
+      "type": "RECTANGLE",
+      "tags": [
+        "exteriorvoice_bubble"
+      ],
+      "boundingBox": {
+        "left": 142.0,
+        "top": 138.0,
+        "width": 220.0,
+        "height": 53.0
+      },
+      "points": [
+        {
+          "x": 142.0,
+          "y": 138.0
+        },
+        {
+          "x": 362.0,
+          "y": 138.0
+        },
+        {
+          "x": 362.0,
+          "y": 191.0
+        },
+        {
+          "x": 142.0,
+          "y": 191.0
+        }
+      ]
+    },
+    {
+      "id": "ukTcdQZyY5",
+      "type": "RECTANGLE",
+      "tags": [
+        "exteriorvoice_bubble"
+      ],
+      "boundingBox": {
+        "left": 284.0,
+        "top": 490.0,
+        "width": 188.0,
+        "height": 148.0
+      },
+      "points": [
+        {
+          "x": 284.0,
+          "y": 490.0
+        },
+        {
+          "x": 472.0,
+          "y": 490.0
+        },
+        {
+          "x": 472.0,
+          "y": 638.0
+        },
+        {
+          "x": 284.0,
+          "y": 638.0
+        }
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

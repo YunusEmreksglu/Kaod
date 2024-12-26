@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "Kenshi-4-o_jpg.rf.20d69317190dd0d6fc9a1442325086b4",
+        "name": "Kenshi-4-o_jpg.rf.20d69317190dd0d6fc9a1442325086b4.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\Kenshi-4-o_jpg.rf.20d69317190dd0d6fc9a1442325086b4.jpg",
+        "size": {
+            "width": 1352,
+            "height": 1920
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4aemV9-5E8",
+            "type": "RECTANGLE",
+            "tags": [
+                "exteriorvoice_bubble"
+            ],
+            "boundingBox": {
+                "left": 962,
+                "top": 160,
+                "width": 310.26,
+                "height": 452.08
+            },
+            "points": [
+                {
+                    "x": 962,
+                    "y": 160
+                },
+                {
+                    "x": 1272.26,
+                    "y": 160
+                },
+                {
+                    "x": 1272.26,
+                    "y": 612.0799999999999
+                },
+                {
+                    "x": 962,
+                    "y": 612.0799999999999
+                }
+            ]
+        },
+        {
+            "id": "TEwxDiAKzA7",
+            "type": "RECTANGLE",
+            "tags": [
+                "exteriorvoice_bubble"
+            ],
+            "boundingBox": {
+                "left": 131,
+                "top": 946,
+                "width": 256.39,
+                "height": 409.3
+            },
+            "points": [
+                {
+                    "x": 131,
+                    "y": 946
+                },
+                {
+                    "x": 387.39,
+                    "y": 946
+                },
+                {
+                    "x": 387.39,
+                    "y": 1355.3
+                },
+                {
+                    "x": 131,
+                    "y": 1355.3
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

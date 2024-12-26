@@ -1,0 +1,265 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_lili_men_chapter_14_06_png_jpg.rf.c951c3292cd56be699b94d1b87779eef",
+        "name": "ja_lili_men_chapter_14_06_png_jpg.rf.c951c3292cd56be699b94d1b87779eef.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_lili_men_chapter_14_06_png_jpg.rf.c951c3292cd56be699b94d1b87779eef.jpg",
+        "size": {
+            "width": 1127,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KnFPfL69M4",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 335,
+                "top": 60,
+                "width": 225,
+                "height": 325
+            },
+            "points": [
+                {
+                    "x": 335,
+                    "y": 60
+                },
+                {
+                    "x": 560,
+                    "y": 60
+                },
+                {
+                    "x": 560,
+                    "y": 385
+                },
+                {
+                    "x": 335,
+                    "y": 385
+                }
+            ]
+        },
+        {
+            "id": "8IQ9QzbaQjG",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 850,
+                "top": 340,
+                "width": 200,
+                "height": 235
+            },
+            "points": [
+                {
+                    "x": 850,
+                    "y": 340
+                },
+                {
+                    "x": 1050,
+                    "y": 340
+                },
+                {
+                    "x": 1050,
+                    "y": 575
+                },
+                {
+                    "x": 850,
+                    "y": 575
+                }
+            ]
+        },
+        {
+            "id": "EgzFg7Nmhn8",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 773,
+                "top": 545,
+                "width": 282.5,
+                "height": 345
+            },
+            "points": [
+                {
+                    "x": 773,
+                    "y": 545
+                },
+                {
+                    "x": 1055.5,
+                    "y": 545
+                },
+                {
+                    "x": 1055.5,
+                    "y": 890
+                },
+                {
+                    "x": 773,
+                    "y": 890
+                }
+            ]
+        },
+        {
+            "id": "JRsYeM7FxMG",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 548,
+                "top": 558,
+                "width": 240,
+                "height": 337.5
+            },
+            "points": [
+                {
+                    "x": 548,
+                    "y": 558
+                },
+                {
+                    "x": 788,
+                    "y": 558
+                },
+                {
+                    "x": 788,
+                    "y": 895.5
+                },
+                {
+                    "x": 548,
+                    "y": 895.5
+                }
+            ]
+        },
+        {
+            "id": "3VtpzTaiEJ8",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 65,
+                "top": 585,
+                "width": 332.5,
+                "height": 315
+            },
+            "points": [
+                {
+                    "x": 65,
+                    "y": 585
+                },
+                {
+                    "x": 397.5,
+                    "y": 585
+                },
+                {
+                    "x": 397.5,
+                    "y": 900
+                },
+                {
+                    "x": 65,
+                    "y": 900
+                }
+            ]
+        },
+        {
+            "id": "G6nIin24sI-",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 280,
+                "top": 918,
+                "width": 222.5,
+                "height": 302.5
+            },
+            "points": [
+                {
+                    "x": 280,
+                    "y": 918
+                },
+                {
+                    "x": 502.5,
+                    "y": 918
+                },
+                {
+                    "x": 502.5,
+                    "y": 1220.5
+                },
+                {
+                    "x": 280,
+                    "y": 1220.5
+                }
+            ]
+        },
+        {
+            "id": "_xzozyIW2dE",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 870,
+                "top": 913,
+                "width": 185,
+                "height": 245
+            },
+            "points": [
+                {
+                    "x": 870,
+                    "y": 913
+                },
+                {
+                    "x": 1055,
+                    "y": 913
+                },
+                {
+                    "x": 1055,
+                    "y": 1158
+                },
+                {
+                    "x": 870,
+                    "y": 1158
+                }
+            ]
+        },
+        {
+            "id": "QawF_PUll-s",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 503,
+                "top": 1223,
+                "width": 285,
+                "height": 300
+            },
+            "points": [
+                {
+                    "x": 503,
+                    "y": 1223
+                },
+                {
+                    "x": 788,
+                    "y": 1223
+                },
+                {
+                    "x": 788,
+                    "y": 1523
+                },
+                {
+                    "x": 503,
+                    "y": 1523
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

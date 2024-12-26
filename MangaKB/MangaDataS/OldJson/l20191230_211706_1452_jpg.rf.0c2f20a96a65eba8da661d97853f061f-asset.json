@@ -1,0 +1,172 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "l20191230_211706_1452_jpg.rf.0c2f20a96a65eba8da661d97853f061f",
+        "name": "l20191230_211706_1452_jpg.rf.0c2f20a96a65eba8da661d97853f061f.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\l20191230_211706_1452_jpg.rf.0c2f20a96a65eba8da661d97853f061f.jpg",
+        "size": {
+            "width": 500,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6917",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 147,
+                "top": 125,
+                "width": 179,
+                "height": 62
+            },
+            "points": [
+                {
+                    "x": 147,
+                    "y": 125
+                },
+                {
+                    "x": 326,
+                    "y": 125
+                },
+                {
+                    "x": 326,
+                    "y": 187
+                },
+                {
+                    "x": 147,
+                    "y": 187
+                }
+            ]
+        },
+        {
+            "id": "6918",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 358,
+                "top": 503,
+                "width": 118,
+                "height": 97
+            },
+            "points": [
+                {
+                    "x": 358,
+                    "y": 503
+                },
+                {
+                    "x": 476,
+                    "y": 503
+                },
+                {
+                    "x": 476,
+                    "y": 600
+                },
+                {
+                    "x": 358,
+                    "y": 600
+                }
+            ]
+        },
+        {
+            "id": "6919",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 10,
+                "top": 591,
+                "width": 85,
+                "height": 72
+            },
+            "points": [
+                {
+                    "x": 10,
+                    "y": 591
+                },
+                {
+                    "x": 95,
+                    "y": 591
+                },
+                {
+                    "x": 95,
+                    "y": 663
+                },
+                {
+                    "x": 10,
+                    "y": 663
+                }
+            ]
+        },
+        {
+            "id": "6920",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 105,
+                "top": 768,
+                "width": 103,
+                "height": 76
+            },
+            "points": [
+                {
+                    "x": 105,
+                    "y": 768
+                },
+                {
+                    "x": 208,
+                    "y": 768
+                },
+                {
+                    "x": 208,
+                    "y": 844
+                },
+                {
+                    "x": 105,
+                    "y": 844
+                }
+            ]
+        },
+        {
+            "id": "6921",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 61,
+                "top": 282,
+                "width": 48,
+                "height": 46
+            },
+            "points": [
+                {
+                    "x": 61,
+                    "y": 282
+                },
+                {
+                    "x": 109,
+                    "y": 282
+                },
+                {
+                    "x": 109,
+                    "y": 328
+                },
+                {
+                    "x": 61,
+                    "y": 328
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

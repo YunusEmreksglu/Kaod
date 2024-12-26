@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "konepunch_man_143_008_jpg.rf.395b8c7309d1d916aa05622bc1024c4e",
+        "name": "konepunch_man_143_008_jpg.rf.395b8c7309d1d916aa05622bc1024c4e.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\konepunch_man_143_008_jpg.rf.395b8c7309d1d916aa05622bc1024c4e.jpg",
+        "size": {
+            "width": 728,
+            "height": 1035
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2R9mxC0jng",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 198,
+                "top": 28,
+                "width": 58,
+                "height": 196
+            },
+            "points": [
+                {
+                    "x": 198,
+                    "y": 28
+                },
+                {
+                    "x": 256,
+                    "y": 28
+                },
+                {
+                    "x": 256,
+                    "y": 224
+                },
+                {
+                    "x": 198,
+                    "y": 224
+                }
+            ]
+        },
+        {
+            "id": "aKHdySZDsfH",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 77,
+                "top": 402,
+                "width": 90,
+                "height": 172
+            },
+            "points": [
+                {
+                    "x": 77,
+                    "y": 402
+                },
+                {
+                    "x": 167,
+                    "y": 402
+                },
+                {
+                    "x": 167,
+                    "y": 574
+                },
+                {
+                    "x": 77,
+                    "y": 574
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,172 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "q032_jpg.rf.54ea5215c971eb1ffc9579146ef64ff4",
+        "name": "q032_jpg.rf.54ea5215c971eb1ffc9579146ef64ff4.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\q032_jpg.rf.54ea5215c971eb1ffc9579146ef64ff4.jpg",
+        "size": {
+            "width": 484,
+            "height": 4096
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "26470",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "height": 469.43,
+                "width": 172.86885245901638,
+                "left": 85,
+                "top": 1568
+            },
+            "points": [
+                {
+                    "x": 85,
+                    "y": 1568
+                },
+                {
+                    "x": 257.8688524590164,
+                    "y": 1568
+                },
+                {
+                    "x": 257.8688524590164,
+                    "y": 2037.43
+                },
+                {
+                    "x": 85,
+                    "y": 2037.43
+                }
+            ]
+        },
+        {
+            "id": "26471",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "height": 514.2800000000001,
+                "width": 213.40377049180327,
+                "left": 190.4262295081967,
+                "top": 1759
+            },
+            "points": [
+                {
+                    "x": 190.4262295081967,
+                    "y": 1759
+                },
+                {
+                    "x": 403.83,
+                    "y": 1759
+                },
+                {
+                    "x": 403.83,
+                    "y": 2273.28
+                },
+                {
+                    "x": 190.4262295081967,
+                    "y": 2273.28
+                }
+            ]
+        },
+        {
+            "id": "26472",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 261,
+                "top": 2367,
+                "width": 208.49,
+                "height": 610.84
+            },
+            "points": [
+                {
+                    "x": 261,
+                    "y": 2367
+                },
+                {
+                    "x": 469.49,
+                    "y": 2367
+                },
+                {
+                    "x": 469.49,
+                    "y": 2977.84
+                },
+                {
+                    "x": 261,
+                    "y": 2977.84
+                }
+            ]
+        },
+        {
+            "id": "26473",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 214,
+                "top": 3312,
+                "width": 214.26,
+                "height": 633.43
+            },
+            "points": [
+                {
+                    "x": 214,
+                    "y": 3312
+                },
+                {
+                    "x": 428.26,
+                    "y": 3312
+                },
+                {
+                    "x": 428.26,
+                    "y": 3945.43
+                },
+                {
+                    "x": 214,
+                    "y": 3945.43
+                }
+            ]
+        },
+        {
+            "id": "26474",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 132,
+                "top": 724,
+                "width": 138.71,
+                "height": 363.49
+            },
+            "points": [
+                {
+                    "x": 132,
+                    "y": 724
+                },
+                {
+                    "x": 270.71000000000004,
+                    "y": 724
+                },
+                {
+                    "x": 270.71000000000004,
+                    "y": 1087.49
+                },
+                {
+                    "x": 132,
+                    "y": 1087.49
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

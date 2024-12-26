@@ -1,0 +1,172 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_one_punch_man_chapter_10_06_png.rf.d2c51b9542f39807de3d5e3674b211ed",
+        "name": "ja_one_punch_man_chapter_10_06_png.rf.d2c51b9542f39807de3d5e3674b211ed.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_one_punch_man_chapter_10_06_png.rf.d2c51b9542f39807de3d5e3674b211ed.jpg",
+        "size": {
+            "width": 996,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Wv2PFoTZLy",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 52,
+                "top": 160,
+                "width": 201.98,
+                "height": 311.75
+            },
+            "points": [
+                {
+                    "x": 52,
+                    "y": 160
+                },
+                {
+                    "x": 253.98,
+                    "y": 160
+                },
+                {
+                    "x": 253.98,
+                    "y": 471.75
+                },
+                {
+                    "x": 52,
+                    "y": 471.75
+                }
+            ]
+        },
+        {
+            "id": "_y10kxLXCi9",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 29,
+                "top": 1060,
+                "width": 219.05,
+                "height": 320.69
+            },
+            "points": [
+                {
+                    "x": 29,
+                    "y": 1060
+                },
+                {
+                    "x": 248.05,
+                    "y": 1060
+                },
+                {
+                    "x": 248.05,
+                    "y": 1380.69
+                },
+                {
+                    "x": 29,
+                    "y": 1380.69
+                }
+            ]
+        },
+        {
+            "id": "3E0_D-RzcPi",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 733,
+                "top": 507,
+                "width": 209.24,
+                "height": 341.63
+            },
+            "points": [
+                {
+                    "x": 733,
+                    "y": 507
+                },
+                {
+                    "x": 942.24,
+                    "y": 507
+                },
+                {
+                    "x": 942.24,
+                    "y": 848.63
+                },
+                {
+                    "x": 733,
+                    "y": 848.63
+                }
+            ]
+        },
+        {
+            "id": "Wot8FlHSvAp",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 766,
+                "top": 154,
+                "width": 184.13,
+                "height": 357.8
+            },
+            "points": [
+                {
+                    "x": 766,
+                    "y": 154
+                },
+                {
+                    "x": 950.13,
+                    "y": 154
+                },
+                {
+                    "x": 950.13,
+                    "y": 511.8
+                },
+                {
+                    "x": 766,
+                    "y": 511.8
+                }
+            ]
+        },
+        {
+            "id": "aWAox_rprDJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 692,
+                "top": 1069,
+                "width": 259.45,
+                "height": 326.11
+            },
+            "points": [
+                {
+                    "x": 692,
+                    "y": 1069
+                },
+                {
+                    "x": 951.45,
+                    "y": 1069
+                },
+                {
+                    "x": 951.45,
+                    "y": 1395.1100000000001
+                },
+                {
+                    "x": 692,
+                    "y": 1395.1100000000001
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

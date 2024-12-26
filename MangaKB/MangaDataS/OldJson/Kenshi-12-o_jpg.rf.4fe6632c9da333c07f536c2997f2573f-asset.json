@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "Kenshi-12-o_jpg.rf.4fe6632c9da333c07f536c2997f2573f",
+        "name": "Kenshi-12-o_jpg.rf.4fe6632c9da333c07f536c2997f2573f.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\Kenshi-12-o_jpg.rf.4fe6632c9da333c07f536c2997f2573f.jpg",
+        "size": {
+            "width": 1352,
+            "height": 1920
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "e5TxVQ6slf",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 83,
+                "top": 1168,
+                "width": 210,
+                "height": 631
+            },
+            "points": [
+                {
+                    "x": 83,
+                    "y": 1168
+                },
+                {
+                    "x": 293,
+                    "y": 1168
+                },
+                {
+                    "x": 293,
+                    "y": 1799
+                },
+                {
+                    "x": 83,
+                    "y": 1799
+                }
+            ]
+        },
+        {
+            "id": "MaZBapXkxvx",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 473,
+                "top": 1250,
+                "width": 194.58,
+                "height": 429
+            },
+            "points": [
+                {
+                    "x": 473,
+                    "y": 1250
+                },
+                {
+                    "x": 667.58,
+                    "y": 1250
+                },
+                {
+                    "x": 667.58,
+                    "y": 1679
+                },
+                {
+                    "x": 473,
+                    "y": 1679
+                }
+            ]
+        },
+        {
+            "id": "cqM4ukzRyTw",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 684,
+                "top": 1165,
+                "width": 239,
+                "height": 324
+            },
+            "points": [
+                {
+                    "x": 684,
+                    "y": 1165
+                },
+                {
+                    "x": 923,
+                    "y": 1165
+                },
+                {
+                    "x": 923,
+                    "y": 1489
+                },
+                {
+                    "x": 684,
+                    "y": 1489
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

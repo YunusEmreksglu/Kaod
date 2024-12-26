@@ -1,0 +1,265 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "konepunch_man_143_019_jpg.rf.16420dd82c813776e516105557db55b2",
+        "name": "konepunch_man_143_019_jpg.rf.16420dd82c813776e516105557db55b2.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\konepunch_man_143_019_jpg.rf.16420dd82c813776e516105557db55b2.jpg",
+        "size": {
+            "width": 728,
+            "height": 1035
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "q9I-fOpaRj",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 592,
+                "top": 55,
+                "width": 60,
+                "height": 159
+            },
+            "points": [
+                {
+                    "x": 592,
+                    "y": 55
+                },
+                {
+                    "x": 652,
+                    "y": 55
+                },
+                {
+                    "x": 652,
+                    "y": 214
+                },
+                {
+                    "x": 592,
+                    "y": 214
+                }
+            ]
+        },
+        {
+            "id": "oLL6JLcOWvc",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 384,
+                "top": 44,
+                "width": 84,
+                "height": 186
+            },
+            "points": [
+                {
+                    "x": 384,
+                    "y": 44
+                },
+                {
+                    "x": 468,
+                    "y": 44
+                },
+                {
+                    "x": 468,
+                    "y": 230
+                },
+                {
+                    "x": 384,
+                    "y": 230
+                }
+            ]
+        },
+        {
+            "id": "MGTUs7aLdf2",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 291,
+                "top": 15,
+                "width": 88,
+                "height": 250
+            },
+            "points": [
+                {
+                    "x": 291,
+                    "y": 15
+                },
+                {
+                    "x": 379,
+                    "y": 15
+                },
+                {
+                    "x": 379,
+                    "y": 265
+                },
+                {
+                    "x": 291,
+                    "y": 265
+                }
+            ]
+        },
+        {
+            "id": "ge0-QAPhqBu",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 44,
+                "top": 120,
+                "width": 100,
+                "height": 190
+            },
+            "points": [
+                {
+                    "x": 44,
+                    "y": 120
+                },
+                {
+                    "x": 144,
+                    "y": 120
+                },
+                {
+                    "x": 144,
+                    "y": 310
+                },
+                {
+                    "x": 44,
+                    "y": 310
+                }
+            ]
+        },
+        {
+            "id": "JrOoyES6bQ-",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 562,
+                "top": 332,
+                "width": 88,
+                "height": 208
+            },
+            "points": [
+                {
+                    "x": 562,
+                    "y": 332
+                },
+                {
+                    "x": 650,
+                    "y": 332
+                },
+                {
+                    "x": 650,
+                    "y": 540
+                },
+                {
+                    "x": 562,
+                    "y": 540
+                }
+            ]
+        },
+        {
+            "id": "ItMtuR4PuXm",
+            "type": "RECTANGLE",
+            "tags": [
+                "Innervoice_bubble"
+            ],
+            "boundingBox": {
+                "left": 459,
+                "top": 622,
+                "width": 192,
+                "height": 232
+            },
+            "points": [
+                {
+                    "x": 459,
+                    "y": 622
+                },
+                {
+                    "x": 651,
+                    "y": 622
+                },
+                {
+                    "x": 651,
+                    "y": 854
+                },
+                {
+                    "x": 459,
+                    "y": 854
+                }
+            ]
+        },
+        {
+            "id": "ixT9-qvz8_v",
+            "type": "RECTANGLE",
+            "tags": [
+                "Innervoice_bubble"
+            ],
+            "boundingBox": {
+                "left": 59,
+                "top": 768,
+                "width": 98,
+                "height": 153
+            },
+            "points": [
+                {
+                    "x": 59,
+                    "y": 768
+                },
+                {
+                    "x": 157,
+                    "y": 768
+                },
+                {
+                    "x": 157,
+                    "y": 921
+                },
+                {
+                    "x": 59,
+                    "y": 921
+                }
+            ]
+        },
+        {
+            "id": "PHFVcdb9PRn",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 472,
+                "top": 44,
+                "width": 53,
+                "height": 107
+            },
+            "points": [
+                {
+                    "x": 472,
+                    "y": 44
+                },
+                {
+                    "x": 525,
+                    "y": 44
+                },
+                {
+                    "x": 525,
+                    "y": 151
+                },
+                {
+                    "x": 472,
+                    "y": 151
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

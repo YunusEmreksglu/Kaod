@@ -1,0 +1,110 @@
+{
+  "asset": {
+    "format": "jpg",
+    "id": "ja_one_punch_man_chapter_1_21_png.rf.8c1a48e1f2652e249c1187e636c4ac39",
+    "name": "ja_one_punch_man_chapter_1_21_png.rf.8c1a48e1f2652e249c1187e636c4ac39.jpg",
+    "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_one_punch_man_chapter_1_21_png.rf.8c1a48e1f2652e249c1187e636c4ac39.jpg",
+    "size": {
+      "width": 512,
+      "height": 728
+    },
+    "state": 3,
+    "type": 1
+  },
+  "regions": [
+    {
+      "id": "25owgQWoeb",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 25.0,
+        "top": 210.0,
+        "width": 77.0,
+        "height": 120.0
+      },
+      "points": [
+        {
+          "x": 25.0,
+          "y": 210.0
+        },
+        {
+          "x": 102.0,
+          "y": 210.0
+        },
+        {
+          "x": 102.0,
+          "y": 330.0
+        },
+        {
+          "x": 25.0,
+          "y": 330.0
+        }
+      ]
+    },
+    {
+      "id": "i1NELvw7Qf",
+      "type": "RECTANGLE",
+      "tags": [
+        "shout_bubble"
+      ],
+      "boundingBox": {
+        "left": 20.0,
+        "top": 389.0,
+        "width": 188.0,
+        "height": 230.0
+      },
+      "points": [
+        {
+          "x": 20.0,
+          "y": 389.0
+        },
+        {
+          "x": 208.0,
+          "y": 389.0
+        },
+        {
+          "x": 208.0,
+          "y": 619.0
+        },
+        {
+          "x": 20.0,
+          "y": 619.0
+        }
+      ]
+    },
+    {
+      "id": "rTxIreghiW",
+      "type": "RECTANGLE",
+      "tags": [
+        "Innervoice_bubble"
+      ],
+      "boundingBox": {
+        "left": 304.0,
+        "top": 373.0,
+        "width": 208.0,
+        "height": 303.0
+      },
+      "points": [
+        {
+          "x": 304.0,
+          "y": 373.0
+        },
+        {
+          "x": 512.0,
+          "y": 373.0
+        },
+        {
+          "x": 512.0,
+          "y": 676.0
+        },
+        {
+          "x": 304.0,
+          "y": 676.0
+        }
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

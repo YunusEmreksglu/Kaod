@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_lili_men_chapter_16_16_png_jpg.rf.849e65b286372010ff38d3b779e2fc5a",
+        "name": "ja_lili_men_chapter_16_16_png_jpg.rf.849e65b286372010ff38d3b779e2fc5a.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_lili_men_chapter_16_16_png_jpg.rf.849e65b286372010ff38d3b779e2fc5a.jpg",
+        "size": {
+            "width": 1127,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Tjm1klhGeW",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 733,
+                "top": 215,
+                "width": 135,
+                "height": 182.5
+            },
+            "points": [
+                {
+                    "x": 733,
+                    "y": 215
+                },
+                {
+                    "x": 868,
+                    "y": 215
+                },
+                {
+                    "x": 868,
+                    "y": 397.5
+                },
+                {
+                    "x": 733,
+                    "y": 397.5
+                }
+            ]
+        },
+        {
+            "id": "8hEP4nuvUOo",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 380,
+                "top": 445,
+                "width": 210,
+                "height": 247.5
+            },
+            "points": [
+                {
+                    "x": 380,
+                    "y": 445
+                },
+                {
+                    "x": 590,
+                    "y": 445
+                },
+                {
+                    "x": 590,
+                    "y": 692.5
+                },
+                {
+                    "x": 380,
+                    "y": 692.5
+                }
+            ]
+        },
+        {
+            "id": "ERpJAm0Oogm",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 768,
+                "top": 445,
+                "width": 127.5,
+                "height": 190
+            },
+            "points": [
+                {
+                    "x": 768,
+                    "y": 445
+                },
+                {
+                    "x": 895.5,
+                    "y": 445
+                },
+                {
+                    "x": 895.5,
+                    "y": 635
+                },
+                {
+                    "x": 768,
+                    "y": 635
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

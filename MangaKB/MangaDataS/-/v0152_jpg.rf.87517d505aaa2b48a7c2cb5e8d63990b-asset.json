@@ -1,0 +1,141 @@
+{
+  "asset": {
+    "format": "jpg",
+    "id": "v0152_jpg.rf.87517d505aaa2b48a7c2cb5e8d63990b",
+    "name": "v0152_jpg.rf.87517d505aaa2b48a7c2cb5e8d63990b.jpg",
+    "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\v0152_jpg.rf.87517d505aaa2b48a7c2cb5e8d63990b.jpg",
+    "size": {
+      "width": 512,
+      "height": 728
+    },
+    "state": 4,
+    "type": 1
+  },
+  "regions": [
+    {
+      "id": "ZTE22In1w_",
+      "type": "RECTANGLE",
+      "tags": [
+        "shout_bubble"
+      ],
+      "boundingBox": {
+        "left": 241.0,
+        "top": 295.0,
+        "width": 52.0,
+        "height": 72.0
+      },
+      "points": [
+        {
+          "x": 241.0,
+          "y": 295.0
+        },
+        {
+          "x": 293.0,
+          "y": 295.0
+        },
+        {
+          "x": 293.0,
+          "y": 367.0
+        },
+        {
+          "x": 241.0,
+          "y": 367.0
+        }
+      ]
+    },
+    {
+      "id": "59AHMdQocJ",
+      "type": "RECTANGLE",
+      "tags": [
+        "shout_bubble"
+      ],
+      "boundingBox": {
+        "left": 218.0,
+        "top": 500.0,
+        "width": 43.0,
+        "height": 55.0
+      },
+      "points": [
+        {
+          "x": 218.0,
+          "y": 500.0
+        },
+        {
+          "x": 261.0,
+          "y": 500.0
+        },
+        {
+          "x": 261.0,
+          "y": 555.0
+        },
+        {
+          "x": 218.0,
+          "y": 555.0
+        }
+      ]
+    },
+    {
+      "id": "K6brc7GSZU",
+      "type": "RECTANGLE",
+      "tags": [
+        "exteriorvoice_bubble"
+      ],
+      "boundingBox": {
+        "left": 247.0,
+        "top": 569.0,
+        "width": 48.0,
+        "height": 61.0
+      },
+      "points": [
+        {
+          "x": 247.0,
+          "y": 569.0
+        },
+        {
+          "x": 295.0,
+          "y": 569.0
+        },
+        {
+          "x": 295.0,
+          "y": 630.0
+        },
+        {
+          "x": 247.0,
+          "y": 630.0
+        }
+      ]
+    },
+    {
+      "id": "gq2pLrfOnz",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_free"
+      ],
+      "boundingBox": {
+        "left": 263.0,
+        "top": 654.0,
+        "width": 32.0,
+        "height": 23.0
+      },
+      "points": [
+        {
+          "x": 263.0,
+          "y": 654.0
+        },
+        {
+          "x": 295.0,
+          "y": 654.0
+        },
+        {
+          "x": 295.0,
+          "y": 677.0
+        },
+        {
+          "x": 263.0,
+          "y": 677.0
+        }
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

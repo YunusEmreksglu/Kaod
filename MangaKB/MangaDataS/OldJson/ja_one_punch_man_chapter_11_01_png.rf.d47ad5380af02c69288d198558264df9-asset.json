@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_one_punch_man_chapter_11_01_png.rf.d47ad5380af02c69288d198558264df9",
+        "name": "ja_one_punch_man_chapter_11_01_png.rf.d47ad5380af02c69288d198558264df9.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_one_punch_man_chapter_11_01_png.rf.d47ad5380af02c69288d198558264df9.jpg",
+        "size": {
+            "width": 996,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WPP1bQqRTZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_free"
+            ],
+            "boundingBox": {
+                "left": 716,
+                "top": 272,
+                "width": 225.56,
+                "height": 465.56
+            },
+            "points": [
+                {
+                    "x": 716,
+                    "y": 272
+                },
+                {
+                    "x": 941.56,
+                    "y": 272
+                },
+                {
+                    "x": 941.56,
+                    "y": 737.56
+                },
+                {
+                    "x": 716,
+                    "y": 737.56
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_lili_men_5_000_png.rf.7ce0e25373e6699aac834873c2338709",
+        "name": "ja_lili_men_5_000_png.rf.7ce0e25373e6699aac834873c2338709.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_lili_men_5_000_png.rf.7ce0e25373e6699aac834873c2338709.jpg",
+        "size": {
+            "width": 1127,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JXK9UeC-CC",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 111,
+                "top": 1261,
+                "width": 157.42,
+                "height": 254.22
+            },
+            "points": [
+                {
+                    "x": 111,
+                    "y": 1261
+                },
+                {
+                    "x": 268.41999999999996,
+                    "y": 1261
+                },
+                {
+                    "x": 268.41999999999996,
+                    "y": 1515.22
+                },
+                {
+                    "x": 111,
+                    "y": 1515.22
+                }
+            ]
+        },
+        {
+            "id": "LW17WaQtXR2",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 452,
+                "top": 1131,
+                "width": 153.45,
+                "height": 163.69
+            },
+            "points": [
+                {
+                    "x": 452,
+                    "y": 1131
+                },
+                {
+                    "x": 605.45,
+                    "y": 1131
+                },
+                {
+                    "x": 605.45,
+                    "y": 1294.69
+                },
+                {
+                    "x": 452,
+                    "y": 1294.69
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

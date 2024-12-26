@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ogtF60DqVnsUVEGvhvNldSRanrDpwxxRMdHoHE0P_jpg.rf.a2376219c3060704cc46c9dce202c472",
+        "name": "ogtF60DqVnsUVEGvhvNldSRanrDpwxxRMdHoHE0P_jpg.rf.a2376219c3060704cc46c9dce202c472.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ogtF60DqVnsUVEGvhvNldSRanrDpwxxRMdHoHE0P_jpg.rf.a2376219c3060704cc46c9dce202c472.jpg",
+        "size": {
+            "width": 484,
+            "height": 4096
+        },
+        "state": 2,
+        "type": 1,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "47782",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 19,
+                "top": 331,
+                "width": 294.9,
+                "height": 888.39
+            },
+            "points": [
+                {
+                    "x": 19,
+                    "y": 331
+                },
+                {
+                    "x": 313.9,
+                    "y": 331
+                },
+                {
+                    "x": 313.9,
+                    "y": 1219.3899999999999
+                },
+                {
+                    "x": 19,
+                    "y": 1219.3899999999999
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

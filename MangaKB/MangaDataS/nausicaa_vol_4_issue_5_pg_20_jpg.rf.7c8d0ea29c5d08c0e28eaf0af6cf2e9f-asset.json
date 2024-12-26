@@ -1,0 +1,327 @@
+{
+  "asset": {
+    "format": "jpg",
+    "id": "nausicaa_vol_4_issue_5_pg_20_jpg.rf.7c8d0ea29c5d08c0e28eaf0af6cf2e9f",
+    "name": "nausicaa_vol_4_issue_5_pg_20_jpg.rf.7c8d0ea29c5d08c0e28eaf0af6cf2e9f.jpg",
+    "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\nausicaa_vol_4_issue_5_pg_20_jpg.rf.7c8d0ea29c5d08c0e28eaf0af6cf2e9f.jpg",
+    "size": {
+      "width": 512,
+      "height": 728
+    },
+    "state": 10,
+    "type": 1
+  },
+  "regions": [
+    {
+      "id": "dtnlq7dVEB",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 237.0,
+        "top": 82.0,
+        "width": 66.0,
+        "height": 61.0
+      },
+      "points": [
+        {
+          "x": 237.0,
+          "y": 82.0
+        },
+        {
+          "x": 303.0,
+          "y": 82.0
+        },
+        {
+          "x": 303.0,
+          "y": 143.0
+        },
+        {
+          "x": 237.0,
+          "y": 143.0
+        }
+      ]
+    },
+    {
+      "id": "kx6FMlp86j",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 303.0,
+        "top": 94.0,
+        "width": 61.0,
+        "height": 52.0
+      },
+      "points": [
+        {
+          "x": 303.0,
+          "y": 94.0
+        },
+        {
+          "x": 364.0,
+          "y": 94.0
+        },
+        {
+          "x": 364.0,
+          "y": 146.0
+        },
+        {
+          "x": 303.0,
+          "y": 146.0
+        }
+      ]
+    },
+    {
+      "id": "hJZyvZ8c4C",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 108.0,
+        "top": 128.0,
+        "width": 81.0,
+        "height": 63.0
+      },
+      "points": [
+        {
+          "x": 108.0,
+          "y": 128.0
+        },
+        {
+          "x": 189.0,
+          "y": 128.0
+        },
+        {
+          "x": 189.0,
+          "y": 191.0
+        },
+        {
+          "x": 108.0,
+          "y": 191.0
+        }
+      ]
+    },
+    {
+      "id": "cQljIec3o_",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 354.0,
+        "top": 400.0,
+        "width": 79.0,
+        "height": 80.0
+      },
+      "points": [
+        {
+          "x": 354.0,
+          "y": 400.0
+        },
+        {
+          "x": 433.0,
+          "y": 400.0
+        },
+        {
+          "x": 433.0,
+          "y": 480.0
+        },
+        {
+          "x": 354.0,
+          "y": 480.0
+        }
+      ]
+    },
+    {
+      "id": "yCuXLAX35n",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 336.0,
+        "top": 484.0,
+        "width": 101.0,
+        "height": 73.0
+      },
+      "points": [
+        {
+          "x": 336.0,
+          "y": 484.0
+        },
+        {
+          "x": 437.0,
+          "y": 484.0
+        },
+        {
+          "x": 437.0,
+          "y": 557.0
+        },
+        {
+          "x": 336.0,
+          "y": 557.0
+        }
+      ]
+    },
+    {
+      "id": "MeZ2DkSbwj",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 146.0,
+        "top": 465.0,
+        "width": 93.0,
+        "height": 127.0
+      },
+      "points": [
+        {
+          "x": 146.0,
+          "y": 465.0
+        },
+        {
+          "x": 239.0,
+          "y": 465.0
+        },
+        {
+          "x": 239.0,
+          "y": 592.0
+        },
+        {
+          "x": 146.0,
+          "y": 592.0
+        }
+      ]
+    },
+    {
+      "id": "DhKuVBoeiw",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 71.0,
+        "top": 403.0,
+        "width": 82.0,
+        "height": 75.0
+      },
+      "points": [
+        {
+          "x": 71.0,
+          "y": 403.0
+        },
+        {
+          "x": 153.0,
+          "y": 403.0
+        },
+        {
+          "x": 153.0,
+          "y": 478.0
+        },
+        {
+          "x": 71.0,
+          "y": 478.0
+        }
+      ]
+    },
+    {
+      "id": "CKne2jwAvn",
+      "type": "RECTANGLE",
+      "tags": [
+        "shout_bubble"
+      ],
+      "boundingBox": {
+        "left": 70.0,
+        "top": 190.0,
+        "width": 71.0,
+        "height": 78.0
+      },
+      "points": [
+        {
+          "x": 70.0,
+          "y": 190.0
+        },
+        {
+          "x": 141.0,
+          "y": 190.0
+        },
+        {
+          "x": 141.0,
+          "y": 268.0
+        },
+        {
+          "x": 70.0,
+          "y": 268.0
+        }
+      ]
+    },
+    {
+      "id": "HCsPfWZ3Hp",
+      "type": "RECTANGLE",
+      "tags": [
+        "shout_bubble"
+      ],
+      "boundingBox": {
+        "left": 170.0,
+        "top": 294.0,
+        "width": 77.0,
+        "height": 73.0
+      },
+      "points": [
+        {
+          "x": 170.0,
+          "y": 294.0
+        },
+        {
+          "x": 247.0,
+          "y": 294.0
+        },
+        {
+          "x": 247.0,
+          "y": 367.0
+        },
+        {
+          "x": 170.0,
+          "y": 367.0
+        }
+      ]
+    },
+    {
+      "id": "4QZBJUgp_N",
+      "type": "RECTANGLE",
+      "tags": [
+        "shout_bubble"
+      ],
+      "boundingBox": {
+        "left": 330.0,
+        "top": 189.0,
+        "width": 110.0,
+        "height": 88.0
+      },
+      "points": [
+        {
+          "x": 330.0,
+          "y": 189.0
+        },
+        {
+          "x": 440.0,
+          "y": 189.0
+        },
+        {
+          "x": 440.0,
+          "y": 277.0
+        },
+        {
+          "x": 330.0,
+          "y": 277.0
+        }
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

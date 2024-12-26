@@ -1,0 +1,79 @@
+{
+  "asset": {
+    "format": "jpg",
+    "id": "Slice-2a_png.rf.5fae1ffeec08e9e624039305acf5da7e",
+    "name": "Slice-2a_png.rf.5fae1ffeec08e9e624039305acf5da7e.jpg",
+    "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\Slice-2a_png.rf.5fae1ffeec08e9e624039305acf5da7e.jpg",
+    "size": {
+      "width": 512,
+      "height": 728
+    },
+    "state": 2,
+    "type": 1
+  },
+  "regions": [
+    {
+      "id": "ZTzNHgPyJj",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 179.0,
+        "top": 91.0,
+        "width": 216.0,
+        "height": 292.0
+      },
+      "points": [
+        {
+          "x": 179.0,
+          "y": 91.0
+        },
+        {
+          "x": 395.0,
+          "y": 91.0
+        },
+        {
+          "x": 395.0,
+          "y": 383.0
+        },
+        {
+          "x": 179.0,
+          "y": 383.0
+        }
+      ]
+    },
+    {
+      "id": "YZNLHBrfpA",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 81.0,
+        "top": 423.0,
+        "width": 183.0,
+        "height": 245.0
+      },
+      "points": [
+        {
+          "x": 81.0,
+          "y": 423.0
+        },
+        {
+          "x": 264.0,
+          "y": 423.0
+        },
+        {
+          "x": 264.0,
+          "y": 668.0
+        },
+        {
+          "x": 81.0,
+          "y": 668.0
+        }
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

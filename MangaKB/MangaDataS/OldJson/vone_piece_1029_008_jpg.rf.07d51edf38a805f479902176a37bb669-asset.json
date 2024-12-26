@@ -1,0 +1,451 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "vone_piece_1029_008_jpg.rf.07d51edf38a805f479902176a37bb669",
+        "name": "vone_piece_1029_008_jpg.rf.07d51edf38a805f479902176a37bb669.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\vone_piece_1029_008_jpg.rf.07d51edf38a805f479902176a37bb669.jpg",
+        "size": {
+            "width": 727,
+            "height": 1051
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6133",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 542,
+                "top": 232,
+                "width": 176,
+                "height": 120
+            },
+            "points": [
+                {
+                    "x": 542,
+                    "y": 232
+                },
+                {
+                    "x": 718,
+                    "y": 232
+                },
+                {
+                    "x": 718,
+                    "y": 352
+                },
+                {
+                    "x": 542,
+                    "y": 352
+                }
+            ]
+        },
+        {
+            "id": "6134",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 343,
+                "top": 239,
+                "width": 192,
+                "height": 112
+            },
+            "points": [
+                {
+                    "x": 343,
+                    "y": 239
+                },
+                {
+                    "x": 535,
+                    "y": 239
+                },
+                {
+                    "x": 535,
+                    "y": 351
+                },
+                {
+                    "x": 343,
+                    "y": 351
+                }
+            ]
+        },
+        {
+            "id": "6135",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 43,
+                "top": 263,
+                "width": 87,
+                "height": 84
+            },
+            "points": [
+                {
+                    "x": 43,
+                    "y": 263
+                },
+                {
+                    "x": 130,
+                    "y": 263
+                },
+                {
+                    "x": 130,
+                    "y": 347
+                },
+                {
+                    "x": 43,
+                    "y": 347
+                }
+            ]
+        },
+        {
+            "id": "6136",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 204,
+                "top": 278,
+                "width": 67,
+                "height": 74
+            },
+            "points": [
+                {
+                    "x": 204,
+                    "y": 278
+                },
+                {
+                    "x": 271,
+                    "y": 278
+                },
+                {
+                    "x": 271,
+                    "y": 352
+                },
+                {
+                    "x": 204,
+                    "y": 352
+                }
+            ]
+        },
+        {
+            "id": "6137",
+            "type": "RECTANGLE",
+            "tags": [
+                "exteriorvoice_bubble"
+            ],
+            "boundingBox": {
+                "height": 133.4420849420849,
+                "width": 116.99999999999993,
+                "left": 600,
+                "top": 388.00000000000006
+            },
+            "points": [
+                {
+                    "x": 600,
+                    "y": 388.00000000000006
+                },
+                {
+                    "x": 716.9999999999999,
+                    "y": 388.00000000000006
+                },
+                {
+                    "x": 716.9999999999999,
+                    "y": 521.442084942085
+                },
+                {
+                    "x": 600,
+                    "y": 521.442084942085
+                }
+            ]
+        },
+        {
+            "id": "6138",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 429,
+                "top": 389,
+                "width": 125,
+                "height": 149
+            },
+            "points": [
+                {
+                    "x": 429,
+                    "y": 389
+                },
+                {
+                    "x": 554,
+                    "y": 389
+                },
+                {
+                    "x": 554,
+                    "y": 538
+                },
+                {
+                    "x": 429,
+                    "y": 538
+                }
+            ]
+        },
+        {
+            "id": "6139",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 181,
+                "top": 444,
+                "width": 109,
+                "height": 131
+            },
+            "points": [
+                {
+                    "x": 181,
+                    "y": 444
+                },
+                {
+                    "x": 290,
+                    "y": 444
+                },
+                {
+                    "x": 290,
+                    "y": 575
+                },
+                {
+                    "x": 181,
+                    "y": 575
+                }
+            ]
+        },
+        {
+            "id": "6140",
+            "type": "RECTANGLE",
+            "tags": [
+                "exteriorvoice_bubble"
+            ],
+            "boundingBox": {
+                "height": 122.3397683397683,
+                "width": 129.60808926080898,
+                "left": 537.3919107391911,
+                "top": 466.66023166023166
+            },
+            "points": [
+                {
+                    "x": 537.3919107391911,
+                    "y": 466.66023166023166
+                },
+                {
+                    "x": 667,
+                    "y": 466.66023166023166
+                },
+                {
+                    "x": 667,
+                    "y": 589
+                },
+                {
+                    "x": 537.3919107391911,
+                    "y": 589
+                }
+            ]
+        },
+        {
+            "id": "6141",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 596,
+                "top": 5,
+                "width": 108,
+                "height": 98
+            },
+            "points": [
+                {
+                    "x": 596,
+                    "y": 5
+                },
+                {
+                    "x": 704,
+                    "y": 5
+                },
+                {
+                    "x": 704,
+                    "y": 103
+                },
+                {
+                    "x": 596,
+                    "y": 103
+                }
+            ]
+        },
+        {
+            "id": "6142",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 348,
+                "top": 0,
+                "width": 187,
+                "height": 127
+            },
+            "points": [
+                {
+                    "x": 348,
+                    "y": 0
+                },
+                {
+                    "x": 535,
+                    "y": 0
+                },
+                {
+                    "x": 535,
+                    "y": 127
+                },
+                {
+                    "x": 348,
+                    "y": 127
+                }
+            ]
+        },
+        {
+            "id": "6143",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 205,
+                "top": 0,
+                "width": 129,
+                "height": 152
+            },
+            "points": [
+                {
+                    "x": 205,
+                    "y": 0
+                },
+                {
+                    "x": 334,
+                    "y": 0
+                },
+                {
+                    "x": 334,
+                    "y": 152
+                },
+                {
+                    "x": 205,
+                    "y": 152
+                }
+            ]
+        },
+        {
+            "id": "6144",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 567,
+                "top": 705,
+                "width": 141,
+                "height": 151
+            },
+            "points": [
+                {
+                    "x": 567,
+                    "y": 705
+                },
+                {
+                    "x": 708,
+                    "y": 705
+                },
+                {
+                    "x": 708,
+                    "y": 856
+                },
+                {
+                    "x": 567,
+                    "y": 856
+                }
+            ]
+        },
+        {
+            "id": "6145",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 46,
+                "top": 0,
+                "width": 149,
+                "height": 168
+            },
+            "points": [
+                {
+                    "x": 46,
+                    "y": 0
+                },
+                {
+                    "x": 195,
+                    "y": 0
+                },
+                {
+                    "x": 195,
+                    "y": 168
+                },
+                {
+                    "x": 46,
+                    "y": 168
+                }
+            ]
+        },
+        {
+            "id": "6146",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 66,
+                "top": 889,
+                "width": 177,
+                "height": 154
+            },
+            "points": [
+                {
+                    "x": 66,
+                    "y": 889
+                },
+                {
+                    "x": 243,
+                    "y": 889
+                },
+                {
+                    "x": 243,
+                    "y": 1043
+                },
+                {
+                    "x": 66,
+                    "y": 1043
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

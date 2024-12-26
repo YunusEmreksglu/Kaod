@@ -1,0 +1,420 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_oshi_no_ko_1_013_png.rf.7405dbc8d7fc7c91912a8f170fc5c25b",
+        "name": "ja_oshi_no_ko_1_013_png.rf.7405dbc8d7fc7c91912a8f170fc5c25b.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_oshi_no_ko_1_013_png.rf.7405dbc8d7fc7c91912a8f170fc5c25b.jpg",
+        "size": {
+            "width": 850,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "V7-rN0QAiQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 623,
+                "top": 28,
+                "width": 129,
+                "height": 214
+            },
+            "points": [
+                {
+                    "x": 623,
+                    "y": 28
+                },
+                {
+                    "x": 752,
+                    "y": 28
+                },
+                {
+                    "x": 752,
+                    "y": 242
+                },
+                {
+                    "x": 623,
+                    "y": 242
+                }
+            ]
+        },
+        {
+            "id": "zsJzfeoqfUh",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 491,
+                "top": 41,
+                "width": 130,
+                "height": 189
+            },
+            "points": [
+                {
+                    "x": 491,
+                    "y": 41
+                },
+                {
+                    "x": 621,
+                    "y": 41
+                },
+                {
+                    "x": 621,
+                    "y": 230
+                },
+                {
+                    "x": 491,
+                    "y": 230
+                }
+            ]
+        },
+        {
+            "id": "rYB_ifa93Cf",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 416,
+                "top": 172,
+                "width": 133,
+                "height": 175
+            },
+            "points": [
+                {
+                    "x": 416,
+                    "y": 172
+                },
+                {
+                    "x": 549,
+                    "y": 172
+                },
+                {
+                    "x": 549,
+                    "y": 347
+                },
+                {
+                    "x": 416,
+                    "y": 347
+                }
+            ]
+        },
+        {
+            "id": "IqHvTpuH_du",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 297,
+                "top": 66,
+                "width": 131,
+                "height": 214
+            },
+            "points": [
+                {
+                    "x": 297,
+                    "y": 66
+                },
+                {
+                    "x": 428,
+                    "y": 66
+                },
+                {
+                    "x": 428,
+                    "y": 280
+                },
+                {
+                    "x": 297,
+                    "y": 280
+                }
+            ]
+        },
+        {
+            "id": "JuklV4rCOQb",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 80,
+                "top": 239,
+                "width": 84,
+                "height": 114
+            },
+            "points": [
+                {
+                    "x": 80,
+                    "y": 239
+                },
+                {
+                    "x": 164,
+                    "y": 239
+                },
+                {
+                    "x": 164,
+                    "y": 353
+                },
+                {
+                    "x": 80,
+                    "y": 353
+                }
+            ]
+        },
+        {
+            "id": "-BQ8IGtszHn",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 583,
+                "top": 433,
+                "width": 178,
+                "height": 250
+            },
+            "points": [
+                {
+                    "x": 583,
+                    "y": 433
+                },
+                {
+                    "x": 761,
+                    "y": 433
+                },
+                {
+                    "x": 761,
+                    "y": 683
+                },
+                {
+                    "x": 583,
+                    "y": 683
+                }
+            ]
+        },
+        {
+            "id": "dE8LKPgGfPj",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "height": 228.2316602316603,
+                "width": 147.55858310626704,
+                "left": 164.44141689373296,
+                "top": 431.9999999999999
+            },
+            "points": [
+                {
+                    "x": 164.44141689373296,
+                    "y": 431.9999999999999
+                },
+                {
+                    "x": 312,
+                    "y": 431.9999999999999
+                },
+                {
+                    "x": 312,
+                    "y": 660.2316602316602
+                },
+                {
+                    "x": 164.44141689373296,
+                    "y": 660.2316602316602
+                }
+            ]
+        },
+        {
+            "id": "glXQOBO2sqv",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "height": 255.98455598455604,
+                "width": 189.91825613079007,
+                "left": 42.84741144414168,
+                "top": 476.06177606177596
+            },
+            "points": [
+                {
+                    "x": 42.84741144414168,
+                    "y": 476.06177606177596
+                },
+                {
+                    "x": 232.76566757493177,
+                    "y": 476.06177606177596
+                },
+                {
+                    "x": 232.76566757493177,
+                    "y": 732.0463320463319
+                },
+                {
+                    "x": 42.84741144414168,
+                    "y": 732.0463320463319
+                }
+            ]
+        },
+        {
+            "id": "lLGXoLtidom",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 667,
+                "top": 743,
+                "width": 131,
+                "height": 194
+            },
+            "points": [
+                {
+                    "x": 667,
+                    "y": 743
+                },
+                {
+                    "x": 798,
+                    "y": 743
+                },
+                {
+                    "x": 798,
+                    "y": 937
+                },
+                {
+                    "x": 667,
+                    "y": 937
+                }
+            ]
+        },
+        {
+            "id": "rfTOuO5spOB",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 503,
+                "top": 763,
+                "width": 165,
+                "height": 206
+            },
+            "points": [
+                {
+                    "x": 503,
+                    "y": 763
+                },
+                {
+                    "x": 668,
+                    "y": 763
+                },
+                {
+                    "x": 668,
+                    "y": 969
+                },
+                {
+                    "x": 503,
+                    "y": 969
+                }
+            ]
+        },
+        {
+            "id": "BadYjM8KLPZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 410,
+                "top": 796,
+                "width": 87,
+                "height": 134
+            },
+            "points": [
+                {
+                    "x": 410,
+                    "y": 796
+                },
+                {
+                    "x": 497,
+                    "y": 796
+                },
+                {
+                    "x": 497,
+                    "y": 930
+                },
+                {
+                    "x": 410,
+                    "y": 930
+                }
+            ]
+        },
+        {
+            "id": "KqTvNYlgIn1",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 371,
+                "top": 928,
+                "width": 153,
+                "height": 182
+            },
+            "points": [
+                {
+                    "x": 371,
+                    "y": 928
+                },
+                {
+                    "x": 524,
+                    "y": 928
+                },
+                {
+                    "x": 524,
+                    "y": 1110
+                },
+                {
+                    "x": 371,
+                    "y": 1110
+                }
+            ]
+        },
+        {
+            "id": "UV7DuD0AE7i",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 183,
+                "top": 759,
+                "width": 159,
+                "height": 220
+            },
+            "points": [
+                {
+                    "x": 183,
+                    "y": 759
+                },
+                {
+                    "x": 342,
+                    "y": 759
+                },
+                {
+                    "x": 342,
+                    "y": 979
+                },
+                {
+                    "x": 183,
+                    "y": 979
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

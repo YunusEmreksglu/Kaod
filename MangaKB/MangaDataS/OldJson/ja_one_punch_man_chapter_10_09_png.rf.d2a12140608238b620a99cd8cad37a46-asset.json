@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_one_punch_man_chapter_10_09_png.rf.d2a12140608238b620a99cd8cad37a46",
+        "name": "ja_one_punch_man_chapter_10_09_png.rf.d2a12140608238b620a99cd8cad37a46.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_one_punch_man_chapter_10_09_png.rf.d2a12140608238b620a99cd8cad37a46.jpg",
+        "size": {
+            "width": 996,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OmQ8o3URaJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 491,
+                "top": 925,
+                "width": 164.76,
+                "height": 194
+            },
+            "points": [
+                {
+                    "x": 491,
+                    "y": 925
+                },
+                {
+                    "x": 655.76,
+                    "y": 925
+                },
+                {
+                    "x": 655.76,
+                    "y": 1119
+                },
+                {
+                    "x": 491,
+                    "y": 1119
+                }
+            ]
+        },
+        {
+            "id": "b8QnHq6hDMn",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 172,
+                "top": 1020,
+                "width": 221.11,
+                "height": 265.11
+            },
+            "points": [
+                {
+                    "x": 172,
+                    "y": 1020
+                },
+                {
+                    "x": 393.11,
+                    "y": 1020
+                },
+                {
+                    "x": 393.11,
+                    "y": 1285.1100000000001
+                },
+                {
+                    "x": 172,
+                    "y": 1285.1100000000001
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

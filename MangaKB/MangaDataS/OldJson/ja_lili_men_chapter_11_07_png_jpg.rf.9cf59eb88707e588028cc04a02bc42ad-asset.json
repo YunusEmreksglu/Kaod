@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_lili_men_chapter_11_07_png_jpg.rf.9cf59eb88707e588028cc04a02bc42ad",
+        "name": "ja_lili_men_chapter_11_07_png_jpg.rf.9cf59eb88707e588028cc04a02bc42ad.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_lili_men_chapter_11_07_png_jpg.rf.9cf59eb88707e588028cc04a02bc42ad.jpg",
+        "size": {
+            "width": 1127,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "lfiTNdWKE0",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_free"
+            ],
+            "boundingBox": {
+                "left": 460,
+                "top": 828,
+                "width": 300,
+                "height": 380
+            },
+            "points": [
+                {
+                    "x": 460,
+                    "y": 828
+                },
+                {
+                    "x": 760,
+                    "y": 828
+                },
+                {
+                    "x": 760,
+                    "y": 1208
+                },
+                {
+                    "x": 460,
+                    "y": 1208
+                }
+            ]
+        },
+        {
+            "id": "8Eg_02a5KIF",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_free"
+            ],
+            "boundingBox": {
+                "left": 878,
+                "top": 323,
+                "width": 162.5,
+                "height": 472.5
+            },
+            "points": [
+                {
+                    "x": 878,
+                    "y": 323
+                },
+                {
+                    "x": 1040.5,
+                    "y": 323
+                },
+                {
+                    "x": 1040.5,
+                    "y": 795.5
+                },
+                {
+                    "x": 878,
+                    "y": 795.5
+                }
+            ]
+        },
+        {
+            "id": "UyC3IL-bdwd",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_free"
+            ],
+            "boundingBox": {
+                "left": 40,
+                "top": 888,
+                "width": 307.5,
+                "height": 507.5
+            },
+            "points": [
+                {
+                    "x": 40,
+                    "y": 888
+                },
+                {
+                    "x": 347.5,
+                    "y": 888
+                },
+                {
+                    "x": 347.5,
+                    "y": 1395.5
+                },
+                {
+                    "x": 40,
+                    "y": 1395.5
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

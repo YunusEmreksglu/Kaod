@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_one_punch_man_chapter_10_27_png.rf.614842fad8a90eeab2b24d842f3238be",
+        "name": "ja_one_punch_man_chapter_10_27_png.rf.614842fad8a90eeab2b24d842f3238be.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_one_punch_man_chapter_10_27_png.rf.614842fad8a90eeab2b24d842f3238be.jpg",
+        "size": {
+            "width": 512,
+            "height": 728
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kVcoku98kz",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 21.076305220883533,
+                "top": 553.735,
+                "width": 76.00835341365462,
+                "height": 114.18225
+            },
+            "points": [
+                {
+                    "x": 21.076305220883533,
+                    "y": 553.735
+                },
+                {
+                    "x": 97.08465863453814,
+                    "y": 553.735
+                },
+                {
+                    "x": 97.08465863453814,
+                    "y": 667.9172500000001
+                },
+                {
+                    "x": 21.076305220883533,
+                    "y": 667.9172500000001
+                }
+            ]
+        },
+        {
+            "id": "mqqOeoRSf8v",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 229.26907630522086,
+                "top": 457.73,
+                "width": 53.55951807228915,
+                "height": 98.65765
+            },
+            "points": [
+                {
+                    "x": 229.26907630522086,
+                    "y": 457.73
+                },
+                {
+                    "x": 282.82859437751006,
+                    "y": 457.73
+                },
+                {
+                    "x": 282.82859437751006,
+                    "y": 556.38765
+                },
+                {
+                    "x": 229.26907630522086,
+                    "y": 556.38765
+                }
+            ]
+        },
+        {
+            "id": "9H9AUHE0cb6",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 297.6385542168674,
+                "top": 571.025,
+                "width": 52.156144578313246,
+                "height": 68.20450000000001
+            },
+            "points": [
+                {
+                    "x": 297.6385542168674,
+                    "y": 571.025
+                },
+                {
+                    "x": 349.7946987951807,
+                    "y": 571.025
+                },
+                {
+                    "x": 349.7946987951807,
+                    "y": 639.2295
+                },
+                {
+                    "x": 297.6385542168674,
+                    "y": 639.2295
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

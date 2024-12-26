@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_lili_men_chapter_19_14_png_jpg.rf.aca41b21a757b27b48467b4b6db3ca6c",
+        "name": "ja_lili_men_chapter_19_14_png_jpg.rf.aca41b21a757b27b48467b4b6db3ca6c.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_lili_men_chapter_19_14_png_jpg.rf.aca41b21a757b27b48467b4b6db3ca6c.jpg",
+        "size": {
+            "width": 512,
+            "height": 728
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1JnijYRf4R",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 324.82697426796807,
+                "top": 10.465,
+                "width": 88.58917480035493,
+                "height": 106.925
+            },
+            "points": [
+                {
+                    "x": 324.82697426796807,
+                    "y": 10.465
+                },
+                {
+                    "x": 413.416149068323,
+                    "y": 10.465
+                },
+                {
+                    "x": 413.416149068323,
+                    "y": 117.39
+                },
+                {
+                    "x": 324.82697426796807,
+                    "y": 117.39
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "Slice-3b_png.rf.fe928fcb8a0dedec2ecc271e689a07c3",
+        "name": "Slice-3b_png.rf.fe928fcb8a0dedec2ecc271e689a07c3.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\Slice-3b_png.rf.fe928fcb8a0dedec2ecc271e689a07c3.jpg",
+        "size": {
+            "width": 800,
+            "height": 1378
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4583",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 303,
+                "top": 25,
+                "width": 459.33,
+                "height": 276.16
+            },
+            "points": [
+                {
+                    "x": 303,
+                    "y": 25
+                },
+                {
+                    "x": 762.3299999999999,
+                    "y": 25
+                },
+                {
+                    "x": 762.3299999999999,
+                    "y": 301.16
+                },
+                {
+                    "x": 303,
+                    "y": 301.16
+                }
+            ]
+        },
+        {
+            "id": "4584",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 13,
+                "top": 822,
+                "width": 407.13,
+                "height": 265.61
+            },
+            "points": [
+                {
+                    "x": 13,
+                    "y": 822
+                },
+                {
+                    "x": 420.13,
+                    "y": 822
+                },
+                {
+                    "x": 420.13,
+                    "y": 1087.6100000000001
+                },
+                {
+                    "x": 13,
+                    "y": 1087.6100000000001
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

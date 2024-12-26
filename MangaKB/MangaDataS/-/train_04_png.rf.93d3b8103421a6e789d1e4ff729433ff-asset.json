@@ -1,0 +1,110 @@
+{
+  "asset": {
+    "format": "jpg",
+    "id": "train_04_png.rf.93d3b8103421a6e789d1e4ff729433ff",
+    "name": "train_04_png.rf.93d3b8103421a6e789d1e4ff729433ff.jpg",
+    "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\train_04_png.rf.93d3b8103421a6e789d1e4ff729433ff.jpg",
+    "size": {
+      "width": 512,
+      "height": 728
+    },
+    "state": 3,
+    "type": 1
+  },
+  "regions": [
+    {
+      "id": "CB2AHvz0Km",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 233.0,
+        "top": -1.0,
+        "width": 34.0,
+        "height": 60.0
+      },
+      "points": [
+        {
+          "x": 233.0,
+          "y": -1.0
+        },
+        {
+          "x": 267.0,
+          "y": -1.0
+        },
+        {
+          "x": 267.0,
+          "y": 59.0
+        },
+        {
+          "x": 233.0,
+          "y": 59.0
+        }
+      ]
+    },
+    {
+      "id": "ar6k94ucWS",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 225.0,
+        "top": 604.0,
+        "width": 43.0,
+        "height": 124.0
+      },
+      "points": [
+        {
+          "x": 225.0,
+          "y": 604.0
+        },
+        {
+          "x": 268.0,
+          "y": 604.0
+        },
+        {
+          "x": 268.0,
+          "y": 728.0
+        },
+        {
+          "x": 225.0,
+          "y": 728.0
+        }
+      ]
+    },
+    {
+      "id": "ISZFWHMFxO",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 252.0,
+        "top": 83.0,
+        "width": 44.0,
+        "height": 134.0
+      },
+      "points": [
+        {
+          "x": 252.0,
+          "y": 83.0
+        },
+        {
+          "x": 296.0,
+          "y": 83.0
+        },
+        {
+          "x": 296.0,
+          "y": 217.0
+        },
+        {
+          "x": 252.0,
+          "y": 217.0
+        }
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

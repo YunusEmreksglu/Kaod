@@ -1,0 +1,234 @@
+{
+  "asset": {
+    "format": "jpg",
+    "id": "-434-_jpg.rf.acc2d225cf7675942f29e0f4b50e88e6",
+    "name": "-434-_jpg.rf.acc2d225cf7675942f29e0f4b50e88e6.jpg",
+    "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\-434-_jpg.rf.acc2d225cf7675942f29e0f4b50e88e6.jpg",
+    "size": {
+      "width": 512,
+      "height": 728
+    },
+    "state": 7,
+    "type": 1
+  },
+  "regions": [
+    {
+      "id": "dxvhjZWQeB",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_free"
+      ],
+      "boundingBox": {
+        "left": 329.0,
+        "top": 87.0,
+        "width": 112.0,
+        "height": 98.0
+      },
+      "points": [
+        {
+          "x": 329.0,
+          "y": 87.0
+        },
+        {
+          "x": 441.0,
+          "y": 87.0
+        },
+        {
+          "x": 441.0,
+          "y": 185.0
+        },
+        {
+          "x": 329.0,
+          "y": 185.0
+        }
+      ]
+    },
+    {
+      "id": "ZiPWHSN2us",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 44.0,
+        "top": 245.0,
+        "width": 83.0,
+        "height": 65.0
+      },
+      "points": [
+        {
+          "x": 44.0,
+          "y": 245.0
+        },
+        {
+          "x": 127.0,
+          "y": 245.0
+        },
+        {
+          "x": 127.0,
+          "y": 310.0
+        },
+        {
+          "x": 44.0,
+          "y": 310.0
+        }
+      ]
+    },
+    {
+      "id": "kJy0LC54lW",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 326.0,
+        "top": 244.0,
+        "width": 137.0,
+        "height": 82.0
+      },
+      "points": [
+        {
+          "x": 326.0,
+          "y": 244.0
+        },
+        {
+          "x": 463.0,
+          "y": 244.0
+        },
+        {
+          "x": 463.0,
+          "y": 326.0
+        },
+        {
+          "x": 326.0,
+          "y": 326.0
+        }
+      ]
+    },
+    {
+      "id": "XVQV2M6xIQ",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 377.0,
+        "top": 327.0,
+        "width": 108.0,
+        "height": 124.0
+      },
+      "points": [
+        {
+          "x": 377.0,
+          "y": 327.0
+        },
+        {
+          "x": 485.0,
+          "y": 327.0
+        },
+        {
+          "x": 485.0,
+          "y": 451.0
+        },
+        {
+          "x": 377.0,
+          "y": 451.0
+        }
+      ]
+    },
+    {
+      "id": "esLO31Gv_s",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 348.0,
+        "top": 549.0,
+        "width": 97.0,
+        "height": 122.0
+      },
+      "points": [
+        {
+          "x": 348.0,
+          "y": 549.0
+        },
+        {
+          "x": 445.0,
+          "y": 549.0
+        },
+        {
+          "x": 445.0,
+          "y": 671.0
+        },
+        {
+          "x": 348.0,
+          "y": 671.0
+        }
+      ]
+    },
+    {
+      "id": "o4MXhfHlio",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 75.0,
+        "top": 388.0,
+        "width": 69.0,
+        "height": 103.0
+      },
+      "points": [
+        {
+          "x": 75.0,
+          "y": 388.0
+        },
+        {
+          "x": 144.0,
+          "y": 388.0
+        },
+        {
+          "x": 144.0,
+          "y": 491.0
+        },
+        {
+          "x": 75.0,
+          "y": 491.0
+        }
+      ]
+    },
+    {
+      "id": "6IIvJON3Fb",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 19.0,
+        "top": 598.0,
+        "width": 82.0,
+        "height": 67.0
+      },
+      "points": [
+        {
+          "x": 19.0,
+          "y": 598.0
+        },
+        {
+          "x": 101.0,
+          "y": 598.0
+        },
+        {
+          "x": 101.0,
+          "y": 665.0
+        },
+        {
+          "x": 19.0,
+          "y": 665.0
+        }
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

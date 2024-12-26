@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "nausicaa_vol_4_issue_5_pg_08_jpg.rf.5c4ef1dac4f8b0376c24829e6b4fedda",
+        "name": "nausicaa_vol_4_issue_5_pg_08_jpg.rf.5c4ef1dac4f8b0376c24829e6b4fedda.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\nausicaa_vol_4_issue_5_pg_08_jpg.rf.5c4ef1dac4f8b0376c24829e6b4fedda.jpg",
+        "size": {
+            "width": 500,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "27960",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 349,
+                "top": 268,
+                "width": 73,
+                "height": 66
+            },
+            "points": [
+                {
+                    "x": 349,
+                    "y": 268
+                },
+                {
+                    "x": 422,
+                    "y": 268
+                },
+                {
+                    "x": 422,
+                    "y": 334
+                },
+                {
+                    "x": 349,
+                    "y": 334
+                }
+            ]
+        },
+        {
+            "id": "27961",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 239,
+                "top": 266,
+                "width": 105,
+                "height": 98
+            },
+            "points": [
+                {
+                    "x": 239,
+                    "y": 266
+                },
+                {
+                    "x": 344,
+                    "y": 266
+                },
+                {
+                    "x": 344,
+                    "y": 364
+                },
+                {
+                    "x": 239,
+                    "y": 364
+                }
+            ]
+        },
+        {
+            "id": "27962",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 399,
+                "top": 736,
+                "width": 96,
+                "height": 104
+            },
+            "points": [
+                {
+                    "x": 399,
+                    "y": 736
+                },
+                {
+                    "x": 495,
+                    "y": 736
+                },
+                {
+                    "x": 495,
+                    "y": 840
+                },
+                {
+                    "x": 399,
+                    "y": 840
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

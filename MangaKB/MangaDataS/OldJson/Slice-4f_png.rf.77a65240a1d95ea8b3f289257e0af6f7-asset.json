@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "Slice-4f_png.rf.77a65240a1d95ea8b3f289257e0af6f7",
+        "name": "Slice-4f_png.rf.77a65240a1d95ea8b3f289257e0af6f7.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\Slice-4f_png.rf.77a65240a1d95ea8b3f289257e0af6f7.jpg",
+        "size": {
+            "width": 800,
+            "height": 1188
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "13865",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 101,
+                "top": 262,
+                "width": 279.17,
+                "height": 152.26
+            },
+            "points": [
+                {
+                    "x": 101,
+                    "y": 262
+                },
+                {
+                    "x": 380.17,
+                    "y": 262
+                },
+                {
+                    "x": 380.17,
+                    "y": 414.26
+                },
+                {
+                    "x": 101,
+                    "y": 414.26
+                }
+            ]
+        },
+        {
+            "id": "13866",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 215,
+                "top": 820,
+                "width": 543.73,
+                "height": 277.49
+            },
+            "points": [
+                {
+                    "x": 215,
+                    "y": 820
+                },
+                {
+                    "x": 758.73,
+                    "y": 820
+                },
+                {
+                    "x": 758.73,
+                    "y": 1097.49
+                },
+                {
+                    "x": 215,
+                    "y": 1097.49
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "Slice-4a3_png.rf.1ff67dcbb01f699a611abf0c438144aa",
+        "name": "Slice-4a3_png.rf.1ff67dcbb01f699a611abf0c438144aa.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\Slice-4a3_png.rf.1ff67dcbb01f699a611abf0c438144aa.jpg",
+        "size": {
+            "width": 799,
+            "height": 1263
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "35945",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "height": 406.97779922779927,
+                "width": 571.44,
+                "left": 71,
+                "top": 255
+            },
+            "points": [
+                {
+                    "x": 71,
+                    "y": 255
+                },
+                {
+                    "x": 642.44,
+                    "y": 255
+                },
+                {
+                    "x": 642.44,
+                    "y": 661.9777992277992
+                },
+                {
+                    "x": 71,
+                    "y": 661.9777992277992
+                }
+            ]
+        },
+        {
+            "id": "35946",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "height": 405.96694980694986,
+                "width": 569.19,
+                "left": 215.00000000000003,
+                "top": 544.9430501930502
+            },
+            "points": [
+                {
+                    "x": 215.00000000000003,
+                    "y": 544.9430501930502
+                },
+                {
+                    "x": 784.19,
+                    "y": 544.9430501930502
+                },
+                {
+                    "x": 784.19,
+                    "y": 950.9100000000001
+                },
+                {
+                    "x": 215.00000000000003,
+                    "y": 950.9100000000001
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

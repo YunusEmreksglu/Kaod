@@ -1,0 +1,172 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "nausicaa_vol_4_issue_5_pg_10_jpg.rf.a696d497f71513a0fc09086113f1ddf0",
+        "name": "nausicaa_vol_4_issue_5_pg_10_jpg.rf.a696d497f71513a0fc09086113f1ddf0.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\nausicaa_vol_4_issue_5_pg_10_jpg.rf.a696d497f71513a0fc09086113f1ddf0.jpg",
+        "size": {
+            "width": 500,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "29199",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 208,
+                "top": 270,
+                "width": 85,
+                "height": 79
+            },
+            "points": [
+                {
+                    "x": 208,
+                    "y": 270
+                },
+                {
+                    "x": 293,
+                    "y": 270
+                },
+                {
+                    "x": 293,
+                    "y": 349
+                },
+                {
+                    "x": 208,
+                    "y": 349
+                }
+            ]
+        },
+        {
+            "id": "29200",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 128,
+                "top": 291,
+                "width": 78,
+                "height": 110
+            },
+            "points": [
+                {
+                    "x": 128,
+                    "y": 291
+                },
+                {
+                    "x": 206,
+                    "y": 291
+                },
+                {
+                    "x": 206,
+                    "y": 401
+                },
+                {
+                    "x": 128,
+                    "y": 401
+                }
+            ]
+        },
+        {
+            "id": "29201",
+            "type": "RECTANGLE",
+            "tags": [
+                "Innervoice_bubble"
+            ],
+            "boundingBox": {
+                "left": 216,
+                "top": 433,
+                "width": 64,
+                "height": 89
+            },
+            "points": [
+                {
+                    "x": 216,
+                    "y": 433
+                },
+                {
+                    "x": 280,
+                    "y": 433
+                },
+                {
+                    "x": 280,
+                    "y": 522
+                },
+                {
+                    "x": 216,
+                    "y": 522
+                }
+            ]
+        },
+        {
+            "id": "29202",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 25,
+                "top": 451,
+                "width": 116,
+                "height": 99
+            },
+            "points": [
+                {
+                    "x": 25,
+                    "y": 451
+                },
+                {
+                    "x": 141,
+                    "y": 451
+                },
+                {
+                    "x": 141,
+                    "y": 550
+                },
+                {
+                    "x": 25,
+                    "y": 550
+                }
+            ]
+        },
+        {
+            "id": "29203",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 87,
+                "top": 554,
+                "width": 91,
+                "height": 66
+            },
+            "points": [
+                {
+                    "x": 87,
+                    "y": 554
+                },
+                {
+                    "x": 178,
+                    "y": 554
+                },
+                {
+                    "x": 178,
+                    "y": 620
+                },
+                {
+                    "x": 87,
+                    "y": 620
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

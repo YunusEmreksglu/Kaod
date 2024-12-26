@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_one_punch_man_chapter_1_17_png.rf.570021aefd2c892be31b2900c8e475ee",
+        "name": "ja_one_punch_man_chapter_1_17_png.rf.570021aefd2c892be31b2900c8e475ee.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_one_punch_man_chapter_1_17_png.rf.570021aefd2c892be31b2900c8e475ee.jpg",
+        "size": {
+            "width": 995,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RmUDOa_2f8",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "height": 625.4826254826255,
+                "width": 276.5605590062112,
+                "left": 718.4394409937888,
+                "top": 64.86486486486487
+            },
+            "points": [
+                {
+                    "x": 718.4394409937888,
+                    "y": 64.86486486486487
+                },
+                {
+                    "x": 995,
+                    "y": 64.86486486486487
+                },
+                {
+                    "x": 995,
+                    "y": 690.3474903474904
+                },
+                {
+                    "x": 718.4394409937888,
+                    "y": 690.3474903474904
+                }
+            ]
+        },
+        {
+            "id": "DrT6kiUPd3g",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "height": 679.5366795366796,
+                "width": 582.4767080745341,
+                "left": 203.944099378882,
+                "top": 901.9305019305019
+            },
+            "points": [
+                {
+                    "x": 203.944099378882,
+                    "y": 901.9305019305019
+                },
+                {
+                    "x": 786.4208074534162,
+                    "y": 901.9305019305019
+                },
+                {
+                    "x": 786.4208074534162,
+                    "y": 1581.4671814671815
+                },
+                {
+                    "x": 203.944099378882,
+                    "y": 1581.4671814671815
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

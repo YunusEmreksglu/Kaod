@@ -1,0 +1,141 @@
+{
+  "asset": {
+    "format": "jpg",
+    "id": "train_02_jpeg.rf.36fde28ab473d05f3cc04708b53005c7",
+    "name": "train_02_jpeg.rf.36fde28ab473d05f3cc04708b53005c7.jpg",
+    "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\train_02_jpeg.rf.36fde28ab473d05f3cc04708b53005c7.jpg",
+    "size": {
+      "width": 512,
+      "height": 728
+    },
+    "state": 4,
+    "type": 1
+  },
+  "regions": [
+    {
+      "id": "MzN8zw15sl",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 235.0,
+        "top": 409.0,
+        "width": 52.0,
+        "height": 147.0
+      },
+      "points": [
+        {
+          "x": 235.0,
+          "y": 409.0
+        },
+        {
+          "x": 287.0,
+          "y": 409.0
+        },
+        {
+          "x": 287.0,
+          "y": 556.0
+        },
+        {
+          "x": 235.0,
+          "y": 556.0
+        }
+      ]
+    },
+    {
+      "id": "C6V0Ve4pgv",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 256.0,
+        "top": 2.0,
+        "width": 35.0,
+        "height": 101.0
+      },
+      "points": [
+        {
+          "x": 256.0,
+          "y": 2.0
+        },
+        {
+          "x": 291.0,
+          "y": 2.0
+        },
+        {
+          "x": 291.0,
+          "y": 103.0
+        },
+        {
+          "x": 256.0,
+          "y": 103.0
+        }
+      ]
+    },
+    {
+      "id": "9FPPlkF5Gw",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 210.0,
+        "top": 576.0,
+        "width": 44.0,
+        "height": 124.0
+      },
+      "points": [
+        {
+          "x": 210.0,
+          "y": 576.0
+        },
+        {
+          "x": 254.0,
+          "y": 576.0
+        },
+        {
+          "x": 254.0,
+          "y": 700.0
+        },
+        {
+          "x": 210.0,
+          "y": 700.0
+        }
+      ]
+    },
+    {
+      "id": "o461UMZ1ME",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 238.0,
+        "top": 81.0,
+        "width": 43.0,
+        "height": 123.0
+      },
+      "points": [
+        {
+          "x": 238.0,
+          "y": 81.0
+        },
+        {
+          "x": 281.0,
+          "y": 81.0
+        },
+        {
+          "x": 281.0,
+          "y": 204.0
+        },
+        {
+          "x": 238.0,
+          "y": 204.0
+        }
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

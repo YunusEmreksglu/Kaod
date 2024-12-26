@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_one_punch_man_chapter_11_02_png.rf.350076e14b233ef91f78129dbf4b067a",
+        "name": "ja_one_punch_man_chapter_11_02_png.rf.350076e14b233ef91f78129dbf4b067a.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_one_punch_man_chapter_11_02_png.rf.350076e14b233ef91f78129dbf4b067a.jpg",
+        "size": {
+            "width": 996,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PIIRKIWT63",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_free"
+            ],
+            "boundingBox": {
+                "left": 253,
+                "top": 56,
+                "width": 528.89,
+                "height": 221.11
+            },
+            "points": [
+                {
+                    "x": 253,
+                    "y": 56
+                },
+                {
+                    "x": 781.89,
+                    "y": 56
+                },
+                {
+                    "x": 781.89,
+                    "y": 277.11
+                },
+                {
+                    "x": 253,
+                    "y": 277.11
+                }
+            ]
+        },
+        {
+            "id": "-UoISYsxDr_",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_free"
+            ],
+            "boundingBox": {
+                "left": 51,
+                "top": 73,
+                "width": 192.22,
+                "height": 192.22
+            },
+            "points": [
+                {
+                    "x": 51,
+                    "y": 73
+                },
+                {
+                    "x": 243.22,
+                    "y": 73
+                },
+                {
+                    "x": 243.22,
+                    "y": 265.22
+                },
+                {
+                    "x": 51,
+                    "y": 265.22
+                }
+            ]
+        },
+        {
+            "id": "yLq8enz4wI-",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_free"
+            ],
+            "boundingBox": {
+                "left": 92,
+                "top": 278,
+                "width": 235.56,
+                "height": 955.56
+            },
+            "points": [
+                {
+                    "x": 92,
+                    "y": 278
+                },
+                {
+                    "x": 327.56,
+                    "y": 278
+                },
+                {
+                    "x": 327.56,
+                    "y": 1233.56
+                },
+                {
+                    "x": 92,
+                    "y": 1233.56
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

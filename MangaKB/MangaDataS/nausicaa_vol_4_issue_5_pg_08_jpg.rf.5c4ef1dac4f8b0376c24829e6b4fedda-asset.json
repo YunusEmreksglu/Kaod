@@ -1,0 +1,110 @@
+{
+  "asset": {
+    "format": "jpg",
+    "id": "nausicaa_vol_4_issue_5_pg_08_jpg.rf.5c4ef1dac4f8b0376c24829e6b4fedda",
+    "name": "nausicaa_vol_4_issue_5_pg_08_jpg.rf.5c4ef1dac4f8b0376c24829e6b4fedda.jpg",
+    "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\nausicaa_vol_4_issue_5_pg_08_jpg.rf.5c4ef1dac4f8b0376c24829e6b4fedda.jpg",
+    "size": {
+      "width": 512,
+      "height": 728
+    },
+    "state": 3,
+    "type": 1
+  },
+  "regions": [
+    {
+      "id": "V8_uPlaqwH",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 322.0,
+        "top": 188.0,
+        "width": 62.0,
+        "height": 51.0
+      },
+      "points": [
+        {
+          "x": 322.0,
+          "y": 188.0
+        },
+        {
+          "x": 384.0,
+          "y": 188.0
+        },
+        {
+          "x": 384.0,
+          "y": 239.0
+        },
+        {
+          "x": 322.0,
+          "y": 239.0
+        }
+      ]
+    },
+    {
+      "id": "nVlLhhqLzG",
+      "type": "RECTANGLE",
+      "tags": [
+        "shout_bubble"
+      ],
+      "boundingBox": {
+        "left": 245.0,
+        "top": 194.0,
+        "width": 79.0,
+        "height": 67.0
+      },
+      "points": [
+        {
+          "x": 245.0,
+          "y": 194.0
+        },
+        {
+          "x": 324.0,
+          "y": 194.0
+        },
+        {
+          "x": 324.0,
+          "y": 261.0
+        },
+        {
+          "x": 245.0,
+          "y": 261.0
+        }
+      ]
+    },
+    {
+      "id": "qHDbNN_3OI",
+      "type": "RECTANGLE",
+      "tags": [
+        "shout_bubble"
+      ],
+      "boundingBox": {
+        "left": 358.0,
+        "top": 533.0,
+        "width": 79.0,
+        "height": 79.0
+      },
+      "points": [
+        {
+          "x": 358.0,
+          "y": 533.0
+        },
+        {
+          "x": 437.0,
+          "y": 533.0
+        },
+        {
+          "x": 437.0,
+          "y": 612.0
+        },
+        {
+          "x": 358.0,
+          "y": 612.0
+        }
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

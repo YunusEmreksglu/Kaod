@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_lili_men_chapter_21_11_png_jpg.rf.408bce3751527789d268b00036587a5d",
+        "name": "ja_lili_men_chapter_21_11_png_jpg.rf.408bce3751527789d268b00036587a5d.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_lili_men_chapter_21_11_png_jpg.rf.408bce3751527789d268b00036587a5d.jpg",
+        "size": {
+            "width": 1127,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "deivmewQHh",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "height": 150.55984555984557,
+                "width": 119.96712328767131,
+                "left": 865,
+                "top": 495
+            },
+            "points": [
+                {
+                    "x": 865,
+                    "y": 495
+                },
+                {
+                    "x": 984.9671232876713,
+                    "y": 495
+                },
+                {
+                    "x": 984.9671232876713,
+                    "y": 645.5598455598456
+                },
+                {
+                    "x": 865,
+                    "y": 645.5598455598456
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

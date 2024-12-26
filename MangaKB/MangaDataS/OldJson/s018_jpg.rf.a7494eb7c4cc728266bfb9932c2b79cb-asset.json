@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "s018_jpg.rf.a7494eb7c4cc728266bfb9932c2b79cb",
+        "name": "s018_jpg.rf.a7494eb7c4cc728266bfb9932c2b79cb.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\s018_jpg.rf.a7494eb7c4cc728266bfb9932c2b79cb.jpg",
+        "size": {
+            "width": 484,
+            "height": 4096
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "29339",
+            "type": "RECTANGLE",
+            "tags": [
+                "exteriorvoice_bubble"
+            ],
+            "boundingBox": {
+                "left": 53,
+                "top": 1054,
+                "width": 190.67,
+                "height": 160.91
+            },
+            "points": [
+                {
+                    "x": 53,
+                    "y": 1054
+                },
+                {
+                    "x": 243.67,
+                    "y": 1054
+                },
+                {
+                    "x": 243.67,
+                    "y": 1214.91
+                },
+                {
+                    "x": 53,
+                    "y": 1214.91
+                }
+            ]
+        },
+        {
+            "id": "29340",
+            "type": "RECTANGLE",
+            "tags": [
+                "exteriorvoice_bubble"
+            ],
+            "boundingBox": {
+                "left": 270,
+                "top": 1578,
+                "width": 188,
+                "height": 157.35
+            },
+            "points": [
+                {
+                    "x": 270,
+                    "y": 1578
+                },
+                {
+                    "x": 458,
+                    "y": 1578
+                },
+                {
+                    "x": 458,
+                    "y": 1735.35
+                },
+                {
+                    "x": 270,
+                    "y": 1735.35
+                }
+            ]
+        },
+        {
+            "id": "29341",
+            "type": "RECTANGLE",
+            "tags": [
+                "exteriorvoice_bubble"
+            ],
+            "boundingBox": {
+                "left": 28,
+                "top": 2809,
+                "width": 189.1,
+                "height": 159.49
+            },
+            "points": [
+                {
+                    "x": 28,
+                    "y": 2809
+                },
+                {
+                    "x": 217.1,
+                    "y": 2809
+                },
+                {
+                    "x": 217.1,
+                    "y": 2968.49
+                },
+                {
+                    "x": 28,
+                    "y": 2968.49
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

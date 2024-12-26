@@ -1,0 +1,48 @@
+{
+  "Asset": {
+    "Format": "jpg",
+    "Id": "-441-_jpg.rf.c1d010a392c7cdd6a320612a92fccdfa",
+    "Name": "-441-_jpg.rf.c1d010a392c7cdd6a320612a92fccdfa.jpg",
+    "Path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\-441-_jpg.rf.c1d010a392c7cdd6a320612a92fccdfa.jpg",
+    "Size": {
+      "Width": 700,
+      "Height": 500
+    },
+    "State": 1,
+    "Type": 1
+  },
+  "Regions": [
+    {
+      "Id": "Wd0e7lwoM3",
+      "Type": "RECTANGLE",
+      "Tags": [
+        "text_bubble"
+      ],
+      "BoundingBox": {
+        "Left": 132.0,
+        "Top": 43.0,
+        "Width": 133.0,
+        "Height": 133.0
+      },
+      "Points": [
+        {
+          "X": 132.0,
+          "Y": 43.0
+        },
+        {
+          "X": 265.0,
+          "Y": 43.0
+        },
+        {
+          "X": 265.0,
+          "Y": 176.0
+        },
+        {
+          "X": 132.0,
+          "Y": 176.0
+        }
+      ]
+    }
+  ],
+  "Version": "2.2.0"
+}

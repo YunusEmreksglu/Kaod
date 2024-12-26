@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "train_09_png.rf.c7dc479fc74ce35d7264a54dda01b18c",
+        "name": "train_09_png.rf.c7dc479fc74ce35d7264a54dda01b18c.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\train_09_png.rf.c7dc479fc74ce35d7264a54dda01b18c.jpg",
+        "size": {
+            "width": 484,
+            "height": 4096
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "16249",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 174,
+                "top": 3164,
+                "width": 310.33,
+                "height": 932.05
+            },
+            "points": [
+                {
+                    "x": 174,
+                    "y": 3164
+                },
+                {
+                    "x": 484.33,
+                    "y": 3164
+                },
+                {
+                    "x": 484.33,
+                    "y": 4096.05
+                },
+                {
+                    "x": 174,
+                    "y": 4096.05
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,172 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "n20220124_104904_673_jpeg_jpg.rf.251211e473cbc9d4e9e9475458782e8f",
+        "name": "n20220124_104904_673_jpeg_jpg.rf.251211e473cbc9d4e9e9475458782e8f.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\n20220124_104904_673_jpeg_jpg.rf.251211e473cbc9d4e9e9475458782e8f.jpg",
+        "size": {
+            "width": 484,
+            "height": 4096
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "36936",
+            "type": "RECTANGLE",
+            "tags": [
+                "Innervoice_bubble"
+            ],
+            "boundingBox": {
+                "left": 59,
+                "top": 1081,
+                "width": 364.1,
+                "height": 111.68
+            },
+            "points": [
+                {
+                    "x": 59,
+                    "y": 1081
+                },
+                {
+                    "x": 423.1,
+                    "y": 1081
+                },
+                {
+                    "x": 423.1,
+                    "y": 1192.68
+                },
+                {
+                    "x": 59,
+                    "y": 1192.68
+                }
+            ]
+        },
+        {
+            "id": "36937",
+            "type": "RECTANGLE",
+            "tags": [
+                "Innervoice_bubble"
+            ],
+            "boundingBox": {
+                "left": 211,
+                "top": 2957,
+                "width": 216.52,
+                "height": 68.2
+            },
+            "points": [
+                {
+                    "x": 211,
+                    "y": 2957
+                },
+                {
+                    "x": 427.52,
+                    "y": 2957
+                },
+                {
+                    "x": 427.52,
+                    "y": 3025.2
+                },
+                {
+                    "x": 211,
+                    "y": 3025.2
+                }
+            ]
+        },
+        {
+            "id": "36938",
+            "type": "RECTANGLE",
+            "tags": [
+                "Innervoice_bubble"
+            ],
+            "boundingBox": {
+                "left": 49,
+                "top": 3112,
+                "width": 293.89,
+                "height": 92.23
+            },
+            "points": [
+                {
+                    "x": 49,
+                    "y": 3112
+                },
+                {
+                    "x": 342.89,
+                    "y": 3112
+                },
+                {
+                    "x": 342.89,
+                    "y": 3204.23
+                },
+                {
+                    "x": 49,
+                    "y": 3204.23
+                }
+            ]
+        },
+        {
+            "id": "36939",
+            "type": "RECTANGLE",
+            "tags": [
+                "Innervoice_bubble"
+            ],
+            "boundingBox": {
+                "left": 178,
+                "top": 3463,
+                "width": 250.19,
+                "height": 76.93
+            },
+            "points": [
+                {
+                    "x": 178,
+                    "y": 3463
+                },
+                {
+                    "x": 428.19,
+                    "y": 3463
+                },
+                {
+                    "x": 428.19,
+                    "y": 3539.93
+                },
+                {
+                    "x": 178,
+                    "y": 3539.93
+                }
+            ]
+        },
+        {
+            "id": "QRvlLdWKBC",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_free"
+            ],
+            "boundingBox": {
+                "height": 122.56370656370656,
+                "width": 392.75409836065575,
+                "left": 52.44159836065574,
+                "top": 3767.84555984556
+            },
+            "points": [
+                {
+                    "x": 52.44159836065574,
+                    "y": 3767.84555984556
+                },
+                {
+                    "x": 445.1956967213115,
+                    "y": 3767.84555984556
+                },
+                {
+                    "x": 445.1956967213115,
+                    "y": 3890.4092664092664
+                },
+                {
+                    "x": 52.44159836065574,
+                    "y": 3890.4092664092664
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

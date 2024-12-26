@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "train_10_png.rf.06b38bc33e855b322a5edd8ef26fe690",
+        "name": "train_10_png.rf.06b38bc33e855b322a5edd8ef26fe690.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\train_10_png.rf.06b38bc33e855b322a5edd8ef26fe690.jpg",
+        "size": {
+            "width": 484,
+            "height": 4096
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "5955",
+            "type": "RECTANGLE",
+            "tags": [
+                "exteriorvoice_bubble"
+            ],
+            "boundingBox": {
+                "height": 815.2702702702703,
+                "width": 327.49999999999983,
+                "left": 33,
+                "top": 2063
+            },
+            "points": [
+                {
+                    "x": 33,
+                    "y": 2063
+                },
+                {
+                    "x": 360.49999999999983,
+                    "y": 2063
+                },
+                {
+                    "x": 360.49999999999983,
+                    "y": 2878.2702702702704
+                },
+                {
+                    "x": 33,
+                    "y": 2878.2702702702704
+                }
+            ]
+        },
+        {
+            "id": "5956",
+            "type": "RECTANGLE",
+            "tags": [
+                "exteriorvoice_bubble"
+            ],
+            "boundingBox": {
+                "height": 627.2827799227804,
+                "width": 254.93999999999997,
+                "left": 184.99999999999991,
+                "top": 2724.0772200772203
+            },
+            "points": [
+                {
+                    "x": 184.99999999999991,
+                    "y": 2724.0772200772203
+                },
+                {
+                    "x": 439.9399999999999,
+                    "y": 2724.0772200772203
+                },
+                {
+                    "x": 439.9399999999999,
+                    "y": 3351.3600000000006
+                },
+                {
+                    "x": 184.99999999999991,
+                    "y": 3351.3600000000006
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

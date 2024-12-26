@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_oshi_no_ko_1_037_png.rf.4759ec47b571e64ff0d8f69dd98e5bc0",
+        "name": "ja_oshi_no_ko_1_037_png.rf.4759ec47b571e64ff0d8f69dd98e5bc0.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_oshi_no_ko_1_037_png.rf.4759ec47b571e64ff0d8f69dd98e5bc0.jpg",
+        "size": {
+            "width": 512,
+            "height": 728
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cZ9Y5iX_QA",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_free"
+            ],
+            "boundingBox": {
+                "left": 295.15294117647056,
+                "top": 58.24,
+                "width": 82.52235294117646,
+                "height": 125.58
+            },
+            "points": [
+                {
+                    "x": 295.15294117647056,
+                    "y": 58.24
+                },
+                {
+                    "x": 377.675294117647,
+                    "y": 58.24
+                },
+                {
+                    "x": 377.675294117647,
+                    "y": 183.82
+                },
+                {
+                    "x": 295.15294117647056,
+                    "y": 183.82
+                }
+            ]
+        },
+        {
+            "id": "70j17f8sz3t",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_free"
+            ],
+            "boundingBox": {
+                "left": 122.88,
+                "top": 129.22,
+                "width": 98.78588235294117,
+                "height": 131.04
+            },
+            "points": [
+                {
+                    "x": 122.88,
+                    "y": 129.22
+                },
+                {
+                    "x": 221.66588235294117,
+                    "y": 129.22
+                },
+                {
+                    "x": 221.66588235294117,
+                    "y": 260.26
+                },
+                {
+                    "x": 122.88,
+                    "y": 260.26
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,451 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_oshi_no_ko_1_025_png.rf.a3142d8092b059e97e7e3a252c6a0221",
+        "name": "ja_oshi_no_ko_1_025_png.rf.a3142d8092b059e97e7e3a252c6a0221.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_oshi_no_ko_1_025_png.rf.a3142d8092b059e97e7e3a252c6a0221.jpg",
+        "size": {
+            "width": 850,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "W1h5fUX2Ru",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 667,
+                "top": 51,
+                "width": 88,
+                "height": 115
+            },
+            "points": [
+                {
+                    "x": 667,
+                    "y": 51
+                },
+                {
+                    "x": 755,
+                    "y": 51
+                },
+                {
+                    "x": 755,
+                    "y": 166
+                },
+                {
+                    "x": 667,
+                    "y": 166
+                }
+            ]
+        },
+        {
+            "id": "yZuOFG6Fsq2",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 443,
+                "top": 96,
+                "width": 124,
+                "height": 189
+            },
+            "points": [
+                {
+                    "x": 443,
+                    "y": 96
+                },
+                {
+                    "x": 567,
+                    "y": 96
+                },
+                {
+                    "x": 567,
+                    "y": 285
+                },
+                {
+                    "x": 443,
+                    "y": 285
+                }
+            ]
+        },
+        {
+            "id": "MYGRQOdFOYx",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 334,
+                "top": 69,
+                "width": 88,
+                "height": 155
+            },
+            "points": [
+                {
+                    "x": 334,
+                    "y": 69
+                },
+                {
+                    "x": 422,
+                    "y": 69
+                },
+                {
+                    "x": 422,
+                    "y": 224
+                },
+                {
+                    "x": 334,
+                    "y": 224
+                }
+            ]
+        },
+        {
+            "id": "micnVGPzAWb",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 153,
+                "top": 130,
+                "width": 160,
+                "height": 231
+            },
+            "points": [
+                {
+                    "x": 153,
+                    "y": 130
+                },
+                {
+                    "x": 313,
+                    "y": 130
+                },
+                {
+                    "x": 313,
+                    "y": 361
+                },
+                {
+                    "x": 153,
+                    "y": 361
+                }
+            ]
+        },
+        {
+            "id": "5_ag8sKR94K",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 575,
+                "top": 375,
+                "width": 166,
+                "height": 211
+            },
+            "points": [
+                {
+                    "x": 575,
+                    "y": 375
+                },
+                {
+                    "x": 741,
+                    "y": 375
+                },
+                {
+                    "x": 741,
+                    "y": 586
+                },
+                {
+                    "x": 575,
+                    "y": 586
+                }
+            ]
+        },
+        {
+            "id": "lhkPa4MFfKp",
+            "type": "RECTANGLE",
+            "tags": [
+                "Innervoice_bubble"
+            ],
+            "boundingBox": {
+                "left": 141,
+                "top": 384,
+                "width": 180,
+                "height": 204
+            },
+            "points": [
+                {
+                    "x": 141,
+                    "y": 384
+                },
+                {
+                    "x": 321,
+                    "y": 384
+                },
+                {
+                    "x": 321,
+                    "y": 588
+                },
+                {
+                    "x": 141,
+                    "y": 588
+                }
+            ]
+        },
+        {
+            "id": "cH9tBSoJmVc",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_free"
+            ],
+            "boundingBox": {
+                "left": 331,
+                "top": 384,
+                "width": 83,
+                "height": 121
+            },
+            "points": [
+                {
+                    "x": 331,
+                    "y": 384
+                },
+                {
+                    "x": 414,
+                    "y": 384
+                },
+                {
+                    "x": 414,
+                    "y": 505
+                },
+                {
+                    "x": 331,
+                    "y": 505
+                }
+            ]
+        },
+        {
+            "id": "QHfYt1f-6IP",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 624,
+                "top": 600,
+                "width": 133,
+                "height": 175
+            },
+            "points": [
+                {
+                    "x": 624,
+                    "y": 600
+                },
+                {
+                    "x": 757,
+                    "y": 600
+                },
+                {
+                    "x": 757,
+                    "y": 775
+                },
+                {
+                    "x": 624,
+                    "y": 775
+                }
+            ]
+        },
+        {
+            "id": "BnMAYx06NLQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 411,
+                "top": 599,
+                "width": 101,
+                "height": 153
+            },
+            "points": [
+                {
+                    "x": 411,
+                    "y": 599
+                },
+                {
+                    "x": 512,
+                    "y": 599
+                },
+                {
+                    "x": 512,
+                    "y": 752
+                },
+                {
+                    "x": 411,
+                    "y": 752
+                }
+            ]
+        },
+        {
+            "id": "ySj2wjscbvw",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 290,
+                "top": 636,
+                "width": 130,
+                "height": 182
+            },
+            "points": [
+                {
+                    "x": 290,
+                    "y": 636
+                },
+                {
+                    "x": 420,
+                    "y": 636
+                },
+                {
+                    "x": 420,
+                    "y": 818
+                },
+                {
+                    "x": 290,
+                    "y": 818
+                }
+            ]
+        },
+        {
+            "id": "A0lMR2pGysM",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 643,
+                "top": 930,
+                "width": 139,
+                "height": 177
+            },
+            "points": [
+                {
+                    "x": 643,
+                    "y": 930
+                },
+                {
+                    "x": 782,
+                    "y": 930
+                },
+                {
+                    "x": 782,
+                    "y": 1107
+                },
+                {
+                    "x": 643,
+                    "y": 1107
+                }
+            ]
+        },
+        {
+            "id": "uq9Nlu2XgkI",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 394,
+                "top": 907,
+                "width": 130,
+                "height": 173
+            },
+            "points": [
+                {
+                    "x": 394,
+                    "y": 907
+                },
+                {
+                    "x": 524,
+                    "y": 907
+                },
+                {
+                    "x": 524,
+                    "y": 1080
+                },
+                {
+                    "x": 394,
+                    "y": 1080
+                }
+            ]
+        },
+        {
+            "id": "VPHJdFaX076",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 297,
+                "top": 975,
+                "width": 112,
+                "height": 177
+            },
+            "points": [
+                {
+                    "x": 297,
+                    "y": 975
+                },
+                {
+                    "x": 409,
+                    "y": 975
+                },
+                {
+                    "x": 409,
+                    "y": 1152
+                },
+                {
+                    "x": 297,
+                    "y": 1152
+                }
+            ]
+        },
+        {
+            "id": "Ku-DYIZfCWz",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 110,
+                "top": 653,
+                "width": 126,
+                "height": 252
+            },
+            "points": [
+                {
+                    "x": 110,
+                    "y": 653
+                },
+                {
+                    "x": 236,
+                    "y": 653
+                },
+                {
+                    "x": 236,
+                    "y": 905
+                },
+                {
+                    "x": 110,
+                    "y": 905
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_lili_men_chapter_22_22_png_jpg.rf.dc3d55130d562d8368a57b868b16ddb9",
+        "name": "ja_lili_men_chapter_22_22_png_jpg.rf.dc3d55130d562d8368a57b868b16ddb9.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_lili_men_chapter_22_22_png_jpg.rf.dc3d55130d562d8368a57b868b16ddb9.jpg",
+        "size": {
+            "width": 1127,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dp5JM-8N0t",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "height": 268.72586872586874,
+                "width": 208.41780821917808,
+                "left": 793.5315068493151,
+                "top": 131.27413127413126
+            },
+            "points": [
+                {
+                    "x": 793.5315068493151,
+                    "y": 131.27413127413126
+                },
+                {
+                    "x": 1001.9493150684932,
+                    "y": 131.27413127413126
+                },
+                {
+                    "x": 1001.9493150684932,
+                    "y": 400
+                },
+                {
+                    "x": 793.5315068493151,
+                    "y": 400
+                }
+            ]
+        },
+        {
+            "id": "c3wkybm_SwV",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "height": 428.30888030887985,
+                "width": 305,
+                "left": 18.456164383561646,
+                "top": 1138.2239382239381
+            },
+            "points": [
+                {
+                    "x": 18.456164383561646,
+                    "y": 1138.2239382239381
+                },
+                {
+                    "x": 323.4561643835616,
+                    "y": 1138.2239382239381
+                },
+                {
+                    "x": 323.4561643835616,
+                    "y": 1566.532818532818
+                },
+                {
+                    "x": 18.456164383561646,
+                    "y": 1566.532818532818
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

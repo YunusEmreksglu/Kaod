@@ -1,0 +1,110 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "train_03_png.rf.22fdbd96fec41552099df502a209f4f4",
+        "name": "train_03_png.rf.22fdbd96fec41552099df502a209f4f4.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\train_03_png.rf.22fdbd96fec41552099df502a209f4f4.jpg",
+        "size": {
+            "width": 484,
+            "height": 4096
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "36484",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "height": 840.3050193050193,
+                "width": 275.26,
+                "left": 28.999999999999996,
+                "top": 1267
+            },
+            "points": [
+                {
+                    "x": 28.999999999999996,
+                    "y": 1267
+                },
+                {
+                    "x": 304.26,
+                    "y": 1267
+                },
+                {
+                    "x": 304.26,
+                    "y": 2107.3050193050194
+                },
+                {
+                    "x": 28.999999999999996,
+                    "y": 2107.3050193050194
+                }
+            ]
+        },
+        {
+            "id": "36485",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "height": 921.4073745173746,
+                "width": 294.96,
+                "left": 148,
+                "top": 1921.4826254826255
+            },
+            "points": [
+                {
+                    "x": 148,
+                    "y": 1921.4826254826255
+                },
+                {
+                    "x": 442.9599999999999,
+                    "y": 1921.4826254826255
+                },
+                {
+                    "x": 442.9599999999999,
+                    "y": 2842.8900000000003
+                },
+                {
+                    "x": 148,
+                    "y": 2842.8900000000003
+                }
+            ]
+        },
+        {
+            "id": "36486",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 91,
+                "top": 338,
+                "width": 248.73,
+                "height": 725.39
+            },
+            "points": [
+                {
+                    "x": 91,
+                    "y": 338
+                },
+                {
+                    "x": 339.73,
+                    "y": 338
+                },
+                {
+                    "x": 339.73,
+                    "y": 1063.3899999999999
+                },
+                {
+                    "x": 91,
+                    "y": 1063.3899999999999
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

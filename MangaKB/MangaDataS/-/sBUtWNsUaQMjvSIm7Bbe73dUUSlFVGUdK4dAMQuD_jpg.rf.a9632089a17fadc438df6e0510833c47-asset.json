@@ -1,0 +1,110 @@
+{
+  "asset": {
+    "format": "jpg",
+    "id": "sBUtWNsUaQMjvSIm7Bbe73dUUSlFVGUdK4dAMQuD_jpg.rf.a9632089a17fadc438df6e0510833c47",
+    "name": "sBUtWNsUaQMjvSIm7Bbe73dUUSlFVGUdK4dAMQuD_jpg.rf.a9632089a17fadc438df6e0510833c47.jpg",
+    "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\sBUtWNsUaQMjvSIm7Bbe73dUUSlFVGUdK4dAMQuD_jpg.rf.a9632089a17fadc438df6e0510833c47.jpg",
+    "size": {
+      "width": 512,
+      "height": 728
+    },
+    "state": 3,
+    "type": 1
+  },
+  "regions": [
+    {
+      "id": "ldCErqlkbS",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 212.0,
+        "top": 224.0,
+        "width": 51.0,
+        "height": 156.0
+      },
+      "points": [
+        {
+          "x": 212.0,
+          "y": 224.0
+        },
+        {
+          "x": 263.0,
+          "y": 224.0
+        },
+        {
+          "x": 263.0,
+          "y": 380.0
+        },
+        {
+          "x": 212.0,
+          "y": 380.0
+        }
+      ]
+    },
+    {
+      "id": "Ao0ZLlGXzj",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 235.0,
+        "top": 341.0,
+        "width": 55.0,
+        "height": 163.0
+      },
+      "points": [
+        {
+          "x": 235.0,
+          "y": 341.0
+        },
+        {
+          "x": 290.0,
+          "y": 341.0
+        },
+        {
+          "x": 290.0,
+          "y": 504.0
+        },
+        {
+          "x": 235.0,
+          "y": 504.0
+        }
+      ]
+    },
+    {
+      "id": "fuoZINIwaL",
+      "type": "RECTANGLE",
+      "tags": [
+        "text_bubble"
+      ],
+      "boundingBox": {
+        "left": 225.0,
+        "top": 58.0,
+        "width": 46.0,
+        "height": 130.0
+      },
+      "points": [
+        {
+          "x": 225.0,
+          "y": 58.0
+        },
+        {
+          "x": 271.0,
+          "y": 58.0
+        },
+        {
+          "x": 271.0,
+          "y": 188.0
+        },
+        {
+          "x": 225.0,
+          "y": 188.0
+        }
+      ]
+    }
+  ],
+  "version": "2.2.0"
+}

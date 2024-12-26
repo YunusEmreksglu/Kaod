@@ -1,0 +1,296 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "konepunch_man_143_012_jpg.rf.5d897aaabebe838fa08dc6e3e3ede27c",
+        "name": "konepunch_man_143_012_jpg.rf.5d897aaabebe838fa08dc6e3e3ede27c.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\konepunch_man_143_012_jpg.rf.5d897aaabebe838fa08dc6e3e3ede27c.jpg",
+        "size": {
+            "width": 728,
+            "height": 1035
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4MROyncILZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 564,
+                "top": 48,
+                "width": 87,
+                "height": 142
+            },
+            "points": [
+                {
+                    "x": 564,
+                    "y": 48
+                },
+                {
+                    "x": 651,
+                    "y": 48
+                },
+                {
+                    "x": 651,
+                    "y": 190
+                },
+                {
+                    "x": 564,
+                    "y": 190
+                }
+            ]
+        },
+        {
+            "id": "TO2btfCLGr6",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 152,
+                "top": 51,
+                "width": 59,
+                "height": 161
+            },
+            "points": [
+                {
+                    "x": 152,
+                    "y": 51
+                },
+                {
+                    "x": 211,
+                    "y": 51
+                },
+                {
+                    "x": 211,
+                    "y": 212
+                },
+                {
+                    "x": 152,
+                    "y": 212
+                }
+            ]
+        },
+        {
+            "id": "ECLTa6k6QXX",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 438,
+                "top": 57,
+                "width": 123,
+                "height": 170
+            },
+            "points": [
+                {
+                    "x": 438,
+                    "y": 57
+                },
+                {
+                    "x": 561,
+                    "y": 57
+                },
+                {
+                    "x": 561,
+                    "y": 227
+                },
+                {
+                    "x": 438,
+                    "y": 227
+                }
+            ]
+        },
+        {
+            "id": "VCBPmgyDaQS",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 75,
+                "top": 95,
+                "width": 73.39,
+                "height": 188
+            },
+            "points": [
+                {
+                    "x": 75,
+                    "y": 95
+                },
+                {
+                    "x": 148.39,
+                    "y": 95
+                },
+                {
+                    "x": 148.39,
+                    "y": 283
+                },
+                {
+                    "x": 75,
+                    "y": 283
+                }
+            ]
+        },
+        {
+            "id": "hPej9yzdHjx",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 631,
+                "top": 332,
+                "width": 55,
+                "height": 141
+            },
+            "points": [
+                {
+                    "x": 631,
+                    "y": 332
+                },
+                {
+                    "x": 686,
+                    "y": 332
+                },
+                {
+                    "x": 686,
+                    "y": 473
+                },
+                {
+                    "x": 631,
+                    "y": 473
+                }
+            ]
+        },
+        {
+            "id": "MujUZ--Kpd2",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 76,
+                "top": 332,
+                "width": 176,
+                "height": 214
+            },
+            "points": [
+                {
+                    "x": 76,
+                    "y": 332
+                },
+                {
+                    "x": 252,
+                    "y": 332
+                },
+                {
+                    "x": 252,
+                    "y": 546
+                },
+                {
+                    "x": 76,
+                    "y": 546
+                }
+            ]
+        },
+        {
+            "id": "PA0sYolMPmu",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 388,
+                "top": 607,
+                "width": 112,
+                "height": 226
+            },
+            "points": [
+                {
+                    "x": 388,
+                    "y": 607
+                },
+                {
+                    "x": 500,
+                    "y": 607
+                },
+                {
+                    "x": 500,
+                    "y": 833
+                },
+                {
+                    "x": 388,
+                    "y": 833
+                }
+            ]
+        },
+        {
+            "id": "6fHkWa5EkA1",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 513,
+                "top": 607,
+                "width": 135,
+                "height": 230
+            },
+            "points": [
+                {
+                    "x": 513,
+                    "y": 607
+                },
+                {
+                    "x": 648,
+                    "y": 607
+                },
+                {
+                    "x": 648,
+                    "y": 837
+                },
+                {
+                    "x": 513,
+                    "y": 837
+                }
+            ]
+        },
+        {
+            "id": "te7850Pw-Ib",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 77,
+                "top": 606,
+                "width": 95,
+                "height": 236
+            },
+            "points": [
+                {
+                    "x": 77,
+                    "y": 606
+                },
+                {
+                    "x": 172,
+                    "y": 606
+                },
+                {
+                    "x": 172,
+                    "y": 842
+                },
+                {
+                    "x": 77,
+                    "y": 842
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

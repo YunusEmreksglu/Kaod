@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "konepunch_man_143_002_jpg.rf.b32ebc4e143554d79aef98165a44f9e9",
+        "name": "konepunch_man_143_002_jpg.rf.b32ebc4e143554d79aef98165a44f9e9.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\konepunch_man_143_002_jpg.rf.b32ebc4e143554d79aef98165a44f9e9.jpg",
+        "size": {
+            "width": 500,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "QwvfKXlbZg",
+            "type": "RECTANGLE",
+            "tags": [
+                "shout_bubble"
+            ],
+            "boundingBox": {
+                "left": 54,
+                "top": 238,
+                "width": 59,
+                "height": 85
+            },
+            "points": [
+                {
+                    "x": 54,
+                    "y": 238
+                },
+                {
+                    "x": 113,
+                    "y": 238
+                },
+                {
+                    "x": 113,
+                    "y": 323
+                },
+                {
+                    "x": 54,
+                    "y": 323
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

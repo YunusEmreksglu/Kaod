@@ -1,0 +1,141 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "Kenshi-18-o_jpg.rf.21de936bb1b847ace44b1464dfa1e795",
+        "name": "Kenshi-18-o_jpg.rf.21de936bb1b847ace44b1464dfa1e795.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\Kenshi-18-o_jpg.rf.21de936bb1b847ace44b1464dfa1e795.jpg",
+        "size": {
+            "width": 500,
+            "height": 1000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Ho-8lClHar",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 348,
+                "top": 202,
+                "width": 53,
+                "height": 110
+            },
+            "points": [
+                {
+                    "x": 348,
+                    "y": 202
+                },
+                {
+                    "x": 401,
+                    "y": 202
+                },
+                {
+                    "x": 401,
+                    "y": 312
+                },
+                {
+                    "x": 348,
+                    "y": 312
+                }
+            ]
+        },
+        {
+            "id": "-tAPi-7BKuY",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 400,
+                "top": 190,
+                "width": 56,
+                "height": 120
+            },
+            "points": [
+                {
+                    "x": 400,
+                    "y": 190
+                },
+                {
+                    "x": 456,
+                    "y": 190
+                },
+                {
+                    "x": 456,
+                    "y": 310
+                },
+                {
+                    "x": 400,
+                    "y": 310
+                }
+            ]
+        },
+        {
+            "id": "HoqwgG1_O1P",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 100,
+                "top": 632,
+                "width": 52,
+                "height": 113
+            },
+            "points": [
+                {
+                    "x": 100,
+                    "y": 632
+                },
+                {
+                    "x": 152,
+                    "y": 632
+                },
+                {
+                    "x": 152,
+                    "y": 745
+                },
+                {
+                    "x": 100,
+                    "y": 745
+                }
+            ]
+        },
+        {
+            "id": "k-mtivZyLd9",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 31,
+                "top": 665,
+                "width": 68,
+                "height": 145
+            },
+            "points": [
+                {
+                    "x": 31,
+                    "y": 665
+                },
+                {
+                    "x": 99,
+                    "y": 665
+                },
+                {
+                    "x": 99,
+                    "y": 810
+                },
+                {
+                    "x": 31,
+                    "y": 810
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

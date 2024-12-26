@@ -1,0 +1,141 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_one_punch_man_chapter_1_08_png.rf.d5a4bdf94cc0b3738b6dff9f02606aba",
+        "name": "ja_one_punch_man_chapter_1_08_png.rf.d5a4bdf94cc0b3738b6dff9f02606aba.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_one_punch_man_chapter_1_08_png.rf.d5a4bdf94cc0b3738b6dff9f02606aba.jpg",
+        "size": {
+            "width": 995,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HKHdha4AjX",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 10,
+                "top": 847,
+                "width": 134.9,
+                "height": 259.78
+            },
+            "points": [
+                {
+                    "x": 10,
+                    "y": 847
+                },
+                {
+                    "x": 144.9,
+                    "y": 847
+                },
+                {
+                    "x": 144.9,
+                    "y": 1106.78
+                },
+                {
+                    "x": 10,
+                    "y": 1106.78
+                }
+            ]
+        },
+        {
+            "id": "yLZ_KhD34QG",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 138,
+                "top": 555,
+                "width": 152.36,
+                "height": 282.9
+            },
+            "points": [
+                {
+                    "x": 138,
+                    "y": 555
+                },
+                {
+                    "x": 290.36,
+                    "y": 555
+                },
+                {
+                    "x": 290.36,
+                    "y": 837.9
+                },
+                {
+                    "x": 138,
+                    "y": 837.9
+                }
+            ]
+        },
+        {
+            "id": "Cgu_aqfvnCQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 735,
+                "top": 503,
+                "width": 177.26,
+                "height": 325.7
+            },
+            "points": [
+                {
+                    "x": 735,
+                    "y": 503
+                },
+                {
+                    "x": 912.26,
+                    "y": 503
+                },
+                {
+                    "x": 912.26,
+                    "y": 828.7
+                },
+                {
+                    "x": 735,
+                    "y": 828.7
+                }
+            ]
+        },
+        {
+            "id": "bxv-CVNlZrW",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 46,
+                "top": 85,
+                "width": 149.58,
+                "height": 305.97
+            },
+            "points": [
+                {
+                    "x": 46,
+                    "y": 85
+                },
+                {
+                    "x": 195.58,
+                    "y": 85
+                },
+                {
+                    "x": 195.58,
+                    "y": 390.97
+                },
+                {
+                    "x": 46,
+                    "y": 390.97
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

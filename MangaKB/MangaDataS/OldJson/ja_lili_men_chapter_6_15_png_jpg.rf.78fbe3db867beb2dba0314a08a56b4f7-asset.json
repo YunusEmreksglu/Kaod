@@ -1,0 +1,141 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ja_lili_men_chapter_6_15_png_jpg.rf.78fbe3db867beb2dba0314a08a56b4f7",
+        "name": "ja_lili_men_chapter_6_15_png_jpg.rf.78fbe3db867beb2dba0314a08a56b4f7.jpg",
+        "path": "file:C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MangaDataS\\vott-json-export\\ja_lili_men_chapter_6_15_png_jpg.rf.78fbe3db867beb2dba0314a08a56b4f7.jpg",
+        "size": {
+            "width": 1127,
+            "height": 1600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NKLZEoJ5ac",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 350,
+                "top": 518,
+                "width": 182.5,
+                "height": 180
+            },
+            "points": [
+                {
+                    "x": 350,
+                    "y": 518
+                },
+                {
+                    "x": 532.5,
+                    "y": 518
+                },
+                {
+                    "x": 532.5,
+                    "y": 698
+                },
+                {
+                    "x": 350,
+                    "y": 698
+                }
+            ]
+        },
+        {
+            "id": "ZXUmzTjmNhd",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 470,
+                "top": 763,
+                "width": 137.5,
+                "height": 110
+            },
+            "points": [
+                {
+                    "x": 470,
+                    "y": 763
+                },
+                {
+                    "x": 607.5,
+                    "y": 763
+                },
+                {
+                    "x": 607.5,
+                    "y": 873
+                },
+                {
+                    "x": 470,
+                    "y": 873
+                }
+            ]
+        },
+        {
+            "id": "GWEW0FLLa2E",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 720,
+                "top": 683,
+                "width": 192.5,
+                "height": 217.5
+            },
+            "points": [
+                {
+                    "x": 720,
+                    "y": 683
+                },
+                {
+                    "x": 912.5,
+                    "y": 683
+                },
+                {
+                    "x": 912.5,
+                    "y": 900.5
+                },
+                {
+                    "x": 720,
+                    "y": 900.5
+                }
+            ]
+        },
+        {
+            "id": "VVE3jSbAnLr",
+            "type": "RECTANGLE",
+            "tags": [
+                "text_bubble"
+            ],
+            "boundingBox": {
+                "left": 18,
+                "top": 1288,
+                "width": 175,
+                "height": 222.5
+            },
+            "points": [
+                {
+                    "x": 18,
+                    "y": 1288
+                },
+                {
+                    "x": 193,
+                    "y": 1288
+                },
+                {
+                    "x": 193,
+                    "y": 1510.5
+                },
+                {
+                    "x": 18,
+                    "y": 1510.5
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
