@@ -166,9 +166,20 @@ namespace MangaKB.Classlar.JsonClass
             File.WriteAllText($"{yenikonum}\\{Path.GetFileNameWithoutExtension(path)}.vott", VoTTSs);
         }
 
+        public void LocationNameChange(string NewName)
+        {
+            root VottJson = JsonConvert.DeserializeObject<root>(File.ReadAllText(path));
+
+            VottJson.name = NewName;
+
+            string VoTTSs = JsonConvert.SerializeObject(VottJson, Formatting.Indented);
+
+            File.WriteAllText($"{VottJson.Connection.providerOptions.Path}\\{NewName}.vott", VoTTSs);
+        }
+
         public void olustur(string Name, string AssetPath)
         {
-            string VoTTSs = File.ReadAllText("C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\Json\\EmptyVott.json");
+            string VoTTSs = File.ReadAllText("Json\\EmptyVott.json");
             root VoTTs = JsonConvert.DeserializeObject<root>(VoTTSs);
             VoTTs.name = Name;
             VoTTs.securityToken = Name + "Token";
@@ -179,7 +190,7 @@ namespace MangaKB.Classlar.JsonClass
             
         }
 
-        public string Konum()
+        public string Location()
         {
             string VoTTSs = File.ReadAllText(path);
             root VoTTs = JsonConvert.DeserializeObject<root>(VoTTSs);

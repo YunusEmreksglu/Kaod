@@ -15,24 +15,22 @@ namespace MangaKB.Classlar
 {
     public class JsonMain
     {
-        public class Bilgi
+        public class InfoClass
         {
-            public string isim { get; set; }
-            public string konum { get; set; }
-            public string Tagler { get; set; }
-            public string AssetSayisi { get; set; }
+            public string Name { get; set; }
+            public string Location { get; set; }
+            public string Tags { get; set; }
+            public string AssetCount { get; set; }
         }
 
-        static string Konum;
+        static string Location;
         static string Name;
 
-        // JSON ve veri işlemleri için kullanılan sınıf değişkenleri
         static AssetJson AssetJsonClass;
         static Export ExportClass;
         static VoTT VoTTClass;
-        static Konum KonumClass = new Konum();
+        static Location LocationClass = new Location();
 
-        // Yapıcı metod
         public JsonMain()
         {
         }
@@ -60,88 +58,87 @@ namespace MangaKB.Classlar
             }
         }
 
-        public void Bilgidegistir(int i, string konum)
+        public void LocationChange(int i, string NewLocation)
         {
-            CopyDirectory(Konum, konum);
+            CopyDirectory(Location, NewLocation);
 
-            KonumClass.KonumBilgsiDegistir(i, konum);
-            AssetJsonClass.AssetBilgisiDegistir(konum);
-            VoTTClass.KonumBilgisiDegistir(konum);
-            KonumEkleme(Name, konum);
-
-            KonumSilme(i);
+            LocationClass.LocationChange(i, NewLocation);
+            AssetJsonClass.AssetBilgisiDegistir(NewLocation);
+            VoTTClass.KonumBilgisiDegistir(NewLocation);
 
 
 
 
         }
 
-        public Bilgi ToplamBilgi(int i)
+        public void LocationNameChange(int i, string NewName)
         {
-            Bilgi bilgi = new Bilgi();
+            LocationClass.LocationNameChange(i, NewName);
+            VoTTClass.LocationNameChange(NewName);
 
-            KonumBilgisi(i);
+        }
 
-            bilgi.isim = Name;
-            bilgi.konum = Konum;
-            bilgi.Tagler = VoTTClass.Tags().Count.ToString();
-            bilgi.AssetSayisi = Resimler().Count.ToString();
+        public InfoClass Info(int i)
+        {
+            InfoClass bilgi = new InfoClass();
+
+            LocationInfo(i);
+
+            bilgi.Name = Name;
+            bilgi.Location = Location;
+            bilgi.Tags = VoTTClass.Tags().Count.ToString();
+            bilgi.AssetCount = Images().Count.ToString();
 
             return bilgi;
         }
 
-        public void KonumBilgisi(int i)
+        public void LocationInfo(int i)
         {
-            VoTTClass = new VoTT(KonumClass.KonumBilgisi(i));
-            Konum = VoTTClass.Konum();
+            VoTTClass = new VoTT(LocationClass.LocationInfo(i));
+            Location = VoTTClass.Location();
             Name = VoTTClass.Name();
 
             // AssetJsonClass sınıfını başlat
-            AssetJsonClass = new AssetJson(Konum);
-            ExportClass = new Export(Konum, Name);
+            AssetJsonClass = new AssetJson(Location);
+            ExportClass = new Export(Location, Name);
         }
 
-        public void KonumOlusturma(string isim, string konum)
+        public void LocationCreate(string isim, string NewLocation)
         {
-            KonumClass.KonumOlusturma(isim, konum);
-            VoTTClass = new VoTT(KonumClass.KonumBilgisi(KonumClass.KonumSayisi() - 1));
-            VoTTClass.olustur(isim, konum);
-            KonumBilgisi(KonumClass.KonumSayisi() - 1);
+            LocationClass.LocationCreate(isim, NewLocation);
+            VoTTClass = new VoTT(LocationClass.LocationInfo(LocationClass.LocationCount() - 1));
+            VoTTClass.olustur(isim, NewLocation);
+            LocationInfo(LocationClass.LocationCount() - 1);
             ExportClass.export();
 
 
         }
 
-        // JSON dosyasına yeni bir giriş ekleyen metod
-        public void KonumEkleme(string isim, string konum)
+        public void LocationAdd(string isim, string NewLocation)
         {
-            KonumClass.KonumEkleme(isim, konum);
+            LocationClass.LocationAdd(isim, NewLocation);
         }
 
-        public void KonumSilme(int i)
+        public void LocationRemove(int i)
         {
-            KonumClass.KonumSilme(i);
+            LocationClass.LocationRemove(i);
         }
 
-        // Geçerli yolları güncelleyen ve döndüren metod
-        public List<Konum.isimkonum> KonumListesi()
+        public List<Location.NameandLocation> LocationList()
         {
-            return KonumClass.KonumListesi();
+            return LocationClass.locationsList();
         }
 
-        // Veriyi kaydeden metod
         public void Save(List<Kutu> Kutular, int ImageWidth, int ImageHeight, FileInfo ImagePaht, Image Image)
         {
-            // Veriyi AssetJsonClass ile kaydet
             AssetJson.AssetData AssetData = AssetJsonClass.Save(Kutular, ImageWidth, ImageHeight, ImagePaht, Image);
-            // Veri varlıklarını dışa aktar
+
             VoTTClass.Save(AssetData.asset);
 
-            // Kullanıcıya başarı mesajı göster
-            MessageBox.Show("やったー！");
+
+            MessageBox.Show("Complate Save");
         }
 
-        // Etiketleri getiren metod
         public List<List<string>> Tags()
         {
             try
@@ -154,40 +151,36 @@ namespace MangaKB.Classlar
             }
         }
 
-        public void TagEkle(string Name , string Renk)
+        public void TagAdd(string Name , string Renk)
         {
             VoTTClass.TagEkle(Name, Renk);
         }
 
-        public void TagSilme(int i)
+        public void TagRemove(int i)
         {
             VoTTClass.TagSilme(i);
         }
 
-        // Görüntü verilerini getiren metod
-        public List<AssetJson.AssetData> Resimler()
+        public List<AssetJson.AssetData> Images()
         {
             return AssetJsonClass.ResimLer();
         }
 
-        // Veriyi dışa aktaran metod
         public void Export()
         {
             ExportClass.export();
 
         }
 
-        // Varlık isimlerini getiren metod
         public List<string> AssetsName()
         {
-            if (File.Exists(Konum + "vott-json-export\\" + Name + "-export.json"))  return ExportClass.Denetim();
+            if (File.Exists(Location + "vott-json-export\\" + Name + "-export.json"))  return ExportClass.Denetim();
             else return null;
         }
 
-        // Dosya oluşturma tarihini getiren metod
         public DateTime DostaTarihi()
         {
-            if (File.Exists(Konum + "vott-json-export\\" + Name + "-export.json")) return ExportClass.DosyaTarihi();
+            if (File.Exists(Location + "vott-json-export\\" + Name + "-export.json")) return ExportClass.DosyaTarihi();
             else return new DateTime(0);
         }
 

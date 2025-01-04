@@ -275,7 +275,7 @@ namespace MangaKB
             int green = new Random().Next(0, 256);
             int blue = new Random().Next(0, 256);
 
-            json.TagEkle(textBox1.Text, $"#{red:X2}{green:X2}{blue:X2}");
+            json.TagAdd(textBox1.Text, $"#{red:X2}{green:X2}{blue:X2}");
 
             RaidoButton();
         }
@@ -286,7 +286,7 @@ namespace MangaKB
             {
                 if (radioButton.Checked)
                 {
-                    json.TagSilme(Convert.ToInt32(radioButton.Tag));
+                    json.TagRemove(Convert.ToInt32(radioButton.Tag));
                 }
             }
 

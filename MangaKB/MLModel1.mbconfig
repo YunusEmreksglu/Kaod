@@ -9,61 +9,6 @@
     "Type": "LocalGPU",
     "Version": 1
   },
-  "RunHistory": {
-    "Version": 3,
-    "Type": "Result",
-    "Trials": [
-      {
-        "Version": 1,
-        "Type": "Trial",
-        "TrainerName": "ObjectDetectionMulti",
-        "Score": 0.0871720165014267,
-        "RuntimeInSeconds": 151.304,
-        "Parameter": {
-          "_SCHEMA_": "e0 * e1 * e2 * e3",
-          "e0": {
-            "OutputColumnName": "Labels",
-            "InputColumnName": "Labels",
-            "AddKeyValueAnnotationsAsText": false
-          },
-          "e1": {
-            "OutputColumnName": "Image",
-            "InputColumnName": "Image",
-            "ImageHeight": 728,
-            "ImageWidth": 517,
-            "CropAnchor": "Center",
-            "Resizing": "IsoPad"
-          },
-          "e2": {
-            "LabelColumnName": "Labels",
-            "PredictedLabelColumnName": "PredictedLabel",
-            "PredictedBoundingBoxColumnName": "PredictedBoundingBoxes",
-            "BoundingBoxColumnName": "Box",
-            "ImageColumnName": "Image",
-            "ScoreColumnName": "score",
-            "MaxEpoch": 1,
-            "InitLearningRate": 1.0,
-            "WeightDecay": 0.0,
-            "IOUThreshold": 0.5,
-            "ScoreThreshold": 0.34999999403953552
-          },
-          "e3": {
-            "OutputColumnName": "PredictedLabel",
-            "InputColumnName": "PredictedLabel"
-          }
-        }
-      }
-    ],
-    "Estimators": {
-      "e0": "MapValueToKey",
-      "e1": "ResizeImages",
-      "e2": "ObjectDetectionMulti",
-      "e3": "MapKeyToValue"
-    },
-    "Schema": "e0 * e1 * e2 * e3",
-    "MetricName": "mAP50_95",
-    "ModelFilePath": "C:\\Users\\asus\\source\\repos\\MangaKB\\MangaKB\\MLModel1.mlnet"
-  },
   "Type": "TrainingConfig",
   "Version": 5,
   "TrainingOption": {

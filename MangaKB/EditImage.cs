@@ -166,7 +166,7 @@ namespace MangaKB
             ResimBox = pictureBox1;
 
             RaidoButton();
-            AssetDataJson = json.Resimler();
+            AssetDataJson = json.Images();
             ResimButton();
             panel3.Controls.Add(pictureBox1);
         }
@@ -366,7 +366,7 @@ namespace MangaKB
 
         private void button3_Click(object sender, EventArgs e)
         {
-            AssetDataJson = json.Resimler();
+            AssetDataJson = json.Images();
             ResimleriSirala(pictureBoxindex, pictureBoxindex + 50);
 
             try
