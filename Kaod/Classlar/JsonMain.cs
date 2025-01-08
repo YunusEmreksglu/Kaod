@@ -63,7 +63,7 @@ namespace MangaKB.Classlar
             CopyDirectory(Location, NewLocation);
 
             LocationClass.LocationChange(i, NewLocation);
-            AssetJsonClass.AssetBilgisiDegistir(NewLocation);
+            AssetJsonClass.AssetChange(NewLocation);
             VoTTClass.LocationChange(NewLocation);
 
 

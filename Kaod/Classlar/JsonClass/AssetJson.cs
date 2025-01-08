@@ -187,7 +187,7 @@ namespace MangaKB.Classlar.JsonClass
             return Resimler;
         }
 
-        public void AssetBilgisiDegistir(string yenikonum)
+        public void AssetChange(string yenikonum)
         {
             string folderPath = $"{Konum}";
 
