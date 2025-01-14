@@ -2,4 +2,4 @@
 
 
 
-![UML Diyagramı](UML.jpg)
+![UML Diyagramı](UMl.jpg)
