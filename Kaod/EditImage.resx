@@ -117,9 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="bttnSave.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="bttnSave.Location" type="System.Drawing.Point, System.Drawing">
-    <value>221, 19</value>
+    <value>395, 19</value>
   </data>
   <data name="bttnSave.Size" type="System.Drawing.Size, System.Drawing">
     <value>173, 72</value>
@@ -141,7 +145,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;bttnSave.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>9</value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
@@ -149,7 +153,6 @@
   <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>512, 728</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>CenterImage</value>
   </data>
@@ -168,17 +171,20 @@
   <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <data name="button2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>73, 32</value>
+    <value>875, 166</value>
   </data>
   <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>120, 47</value>
+    <value>140, 32</value>
   </data>
   <data name="button2.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
   <data name="button2.Text" xml:space="preserve">
-    <value>ImageLoad</value>
+    <value>Image Load</value>
   </data>
   <data name="&gt;&gt;button2.Name" xml:space="preserve">
     <value>button2</value>
@@ -190,13 +196,16 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>8</value>
+  </data>
+  <data name="bttnDelete.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="bttnDelete.Location" type="System.Drawing.Point, System.Drawing">
-    <value>400, 32</value>
+    <value>63, 19</value>
   </data>
   <data name="bttnDelete.Size" type="System.Drawing.Size, System.Drawing">
-    <value>104, 59</value>
+    <value>181, 72</value>
   </data>
   <data name="bttnDelete.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -214,7 +223,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;bttnDelete.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>7</value>
   </data>
   <data name="panlTag.AutoScroll" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -238,31 +247,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;panlTag.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="panlImages.AutoScroll" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="panlImages.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 20</value>
-  </data>
-  <data name="panlImages.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 520</value>
-  </data>
-  <data name="panlImages.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;panlImages.Name" xml:space="preserve">
-    <value>panlImages</value>
-  </data>
-  <data name="&gt;&gt;panlImages.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panlImages.Parent" xml:space="preserve">
-    <value>panel6</value>
-  </data>
-  <data name="&gt;&gt;panlImages.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>6</value>
   </data>
   <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
     <value>258, 166</value>
@@ -283,13 +268,16 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;panel3.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>5</value>
+  </data>
+  <data name="bttnExport.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="bttnExport.Location" type="System.Drawing.Point, System.Drawing">
-    <value>510, 44</value>
+    <value>798, 19</value>
   </data>
   <data name="bttnExport.Size" type="System.Drawing.Size, System.Drawing">
-    <value>93, 47</value>
+    <value>200, 72</value>
   </data>
   <data name="bttnExport.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -307,112 +295,16 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;bttnExport.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="panlImagesbttn.AutoScroll" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="panlImagesbttn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 546</value>
-  </data>
-  <data name="panlImagesbttn.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 167</value>
-  </data>
-  <data name="panlImagesbttn.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;panlImagesbttn.Name" xml:space="preserve">
-    <value>panlImagesbttn</value>
-  </data>
-  <data name="&gt;&gt;panlImagesbttn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panlImagesbttn.Parent" xml:space="preserve">
-    <value>panel6</value>
-  </data>
-  <data name="&gt;&gt;panlImagesbttn.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="button3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 20</value>
-  </data>
-  <data name="button3.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="button3.Text" xml:space="preserve">
-    <value>button3</value>
-  </data>
-  <data name="&gt;&gt;button3.Name" xml:space="preserve">
-    <value>button3</value>
-  </data>
-  <data name="&gt;&gt;button3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;button3.Parent" xml:space="preserve">
-    <value>panel6</value>
-  </data>
-  <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="panel6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 166</value>
-  </data>
-  <data name="panel6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 713</value>
-  </data>
-  <data name="panel6.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;panel6.Name" xml:space="preserve">
-    <value>panel6</value>
-  </data>
-  <data name="&gt;&gt;panel6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel6.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;panel6.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="button4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="button4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="button4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 20</value>
-  </data>
-  <data name="button4.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="button4.Text" xml:space="preserve">
-    <value>button4</value>
-  </data>
-  <data name="&gt;&gt;button4.Name" xml:space="preserve">
-    <value>button4</value>
-  </data>
-  <data name="&gt;&gt;button4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;button4.Parent" xml:space="preserve">
-    <value>panel5</value>
-  </data>
-  <data name="&gt;&gt;button4.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>4</value>
   </data>
   <data name="panlImagesNotSave.AutoScroll" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="panlImagesNotSave.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 20</value>
+    <value>875, 204</value>
   </data>
   <data name="panlImagesNotSave.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 520</value>
+    <value>140, 482</value>
   </data>
   <data name="panlImagesNotSave.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -424,19 +316,19 @@
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;panlImagesNotSave.Parent" xml:space="preserve">
-    <value>panel5</value>
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;panlImagesNotSave.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>0</value>
   </data>
   <data name="panlImagesbttnNotSave.AutoScroll" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="panlImagesbttnNotSave.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 546</value>
+    <value>875, 692</value>
   </data>
   <data name="panlImagesbttnNotSave.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 167</value>
+    <value>140, 202</value>
   </data>
   <data name="panlImagesbttnNotSave.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -448,31 +340,58 @@
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;panlImagesbttnNotSave.Parent" xml:space="preserve">
-    <value>panel5</value>
-  </data>
-  <data name="&gt;&gt;panlImagesbttnNotSave.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="panel5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>875, 166</value>
-  </data>
-  <data name="panel5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 713</value>
-  </data>
-  <data name="panel5.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;panel5.Name" xml:space="preserve">
-    <value>panel5</value>
-  </data>
-  <data name="&gt;&gt;panel5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel5.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;panel5.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="&gt;&gt;panlImagesbttnNotSave.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="panlImagesbttn.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="panlImagesbttn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 692</value>
+  </data>
+  <data name="panlImagesbttn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 202</value>
+  </data>
+  <data name="panlImagesbttn.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;panlImagesbttn.Name" xml:space="preserve">
+    <value>panlImagesbttn</value>
+  </data>
+  <data name="&gt;&gt;panlImagesbttn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panlImagesbttn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panlImagesbttn.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="panlImages.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="panlImages.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 166</value>
+  </data>
+  <data name="panlImages.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 520</value>
+  </data>
+  <data name="panlImages.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;panlImages.Name" xml:space="preserve">
+    <value>panlImages</value>
+  </data>
+  <data name="&gt;&gt;panlImages.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panlImages.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panlImages.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -482,6 +401,9 @@
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>1042, 906</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Form2</value>

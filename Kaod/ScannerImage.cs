@@ -4,6 +4,7 @@ using Microsoft.ML.Tokenizers;
 using SkiaSharp;
 using static MangaKB.Classlar.CommonMethods;
 using MangaKB.Classlar;
+using Kaod;
 
 
 namespace MangaKB
@@ -15,6 +16,8 @@ namespace MangaKB
         {
             InitializeComponent();
         }
+
+        MLMODELUSE ml;
 
         MLImage imagePath;
 
@@ -68,6 +71,14 @@ namespace MangaKB
 
             ResimBox = pictureBox1;
 
+            string[] dosyalar = Directory.GetFiles("MLMODEL");
+
+            // Her dosyayý ComboBox'a ekle
+            foreach (string dosya in dosyalar)
+            {
+                // Dosya isimlerini eklemek için Path.GetFileName kullanýlýr
+                comboBox1.Items.Add(Path.GetFileName(dosya));
+            }
         }
 
         private void bttnScanner_Click(object sender, EventArgs e)
@@ -84,38 +95,38 @@ namespace MangaKB
             Graphics g = Graphics.FromImage(mh);
             Pen pen = new Pen(Color.BurlyWood, 3);
 
-            MLModel1.ModelInput a = new MLModel1.ModelInput() { Image = imagePath };
+            MLMODELUSE.ModelInput a = new MLMODELUSE.ModelInput() { Image = imagePath };
 
 
-            progressBar1.Maximum = (int)MLModel1.Predict(a).PredictedBoundingBoxes.Length / 4;
+            progressBar1.Maximum = (int)MLMODELUSE.Predict(a).PredictedBoundingBoxes.Length / 4;
 
 
             for (int y = 0; y < progressBar1.Maximum; y++)
             {
-                if (0.5 < MLModel1.Predict(a).Score[y])
+                if (0.5 < MLMODELUSE.Predict(a).Score[y])
                 {
-                    float[] v = MLModel1.Predict(a).PredictedBoundingBoxes;
-                    string t = MLModel1.Predict(a).PredictedLabel[y].ToString() + MLModel1.Predict(a).Score[y].ToString();
+                    float[] v = MLMODELUSE.Predict(a).PredictedBoundingBoxes;
+                    string t = MLMODELUSE.Predict(a).PredictedLabel[y].ToString() + MLMODELUSE.Predict(a).Score[y].ToString();
 
                     float oran = 728 / (float)new Bitmap(filePath).Height;
 
 
 
                     int left = (int)Math.Round((float)v[0 + (y * 4)] * oran);
-                    int top = (int)Math.Round((float)v[1 + (y * 4)] * oran) - 1;
-                    int width = (int)Math.Round(((float)v[2 + (y * 4)] * oran) - ((float)v[0 + (y * 4)] * oran)) - 1;
-                    int height = (int)Math.Round(((float)v[3 + (y * 4)] * oran) - ((float)v[1 + (y * 4)] * oran)) - 1;
+                    int top = (int)Math.Round((float)v[1 + (y * 4)] * oran);
+                    int width = (int)Math.Round(((float)v[2 + (y * 4)] * oran) - ((float)v[0 + (y * 4)] * oran));
+                    int height = (int)Math.Round(((float)v[3 + (y * 4)] * oran) - ((float)v[1 + (y * 4)] * oran));
 
                     left = 512 / 2 > left ? left + 1 : left - 1;
                     top = 728 / 2 > top ? top + 1 : top - 1;
 
                     foreach (RadioButton radioButton in panlTag.Controls)
                     {
-                        if (radioButton.Text == MLModel1.Predict(a).PredictedLabel[y].ToString())
+                        if (radioButton.Text == MLMODELUSE.Predict(a).PredictedLabel[y].ToString())
                         {
                             ImageLoad();
-                            Boxs.Add(new Box() { Left = left, Top = top, Width = width, Height = height, Tag = MLModel1.Predict(a).PredictedLabel[y].ToString() });
-                            Corner(new Rectangle(left, top, width, height), tag = new Tag() { Text = MLModel1.Predict(a).PredictedLabel[y].ToString(), Color = radioButton.ForeColor }, panlPicturbox);
+                            Boxs.Add(new Box() { Left = left, Top = top, Width = width, Height = height, Tag = MLMODELUSE.Predict(a).PredictedLabel[y].ToString() });
+                            Corner(new Rectangle(left, top, width, height), tag = new Tag() { Text = MLMODELUSE.Predict(a).PredictedLabel[y].ToString(), Color = radioButton.ForeColor }, panlPicturbox);
 
 
 
@@ -277,7 +288,7 @@ namespace MangaKB
 
         private void bttnTagRemove_Click(object sender, EventArgs e)
         {
-            foreach(RadioButton radioButton in panlTag.Controls)
+            foreach (RadioButton radioButton in panlTag.Controls)
             {
                 if (radioButton.Checked)
                 {
@@ -286,6 +297,11 @@ namespace MangaKB
             }
 
             RaidoButton();
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+             ml = new MLMODELUSE(comboBox1.SelectedItem.ToString());
         }
     }
 }

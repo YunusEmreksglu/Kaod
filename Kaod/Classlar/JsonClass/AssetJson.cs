@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static MangaKB.Classlar.JsonClass.VoTT;
 
+
 namespace MangaKB.Classlar.JsonClass
 {
     public class AssetJson(string Konum)

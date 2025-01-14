@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="MangaKB.Classlar.JsonClass.AssetJson">
+    <Position X="22" Y="0.75" Width="6.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="MangaKB.Classlar.JsonClass.AssetJson.AssetData">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\AssetJson.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.AssetJson.Asset">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\AssetJson.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.AssetJson.Size">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\AssetJson.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.AssetJson.Region">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\AssetJson.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.AssetJson.BoundingBox">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\AssetJson.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.AssetJson.Point">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\AssetJson.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAACAAABAAAAAQAAAAABA=</HashCode>
+      <FileName>Classlar\JsonClass\AssetJson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MangaKB.Classlar.JsonClass.Export">
+    <Position X="18.25" Y="0.75" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="MangaKB.Classlar.JsonClass.Export.VideoSettings">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\Export.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.Export.Project">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\Export.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.Export.Asset">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\Export.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.Export.BoundingBox">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\Export.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.Export.Region">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\Export.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.Export.Size">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\Export.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.Export.Point">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\Export.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.Export.Tag">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\Export.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.Export.AssetData">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\Export.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.Export.ActiveLearningSettings">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\Export.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Classlar\JsonClass\Export.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MangaKB.Classlar.JsonClass.Location">
+    <Position X="10.5" Y="8.75" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="MangaKB.Classlar.JsonClass.Location.NameandLocation">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\Location.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.Location.Locations">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\Location.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAAAAAACAAAAAAAAAAAACAAQIAAAABIAAAAAABAAAAA=</HashCode>
+      <FileName>Classlar\JsonClass\Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MangaKB.Classlar.JsonClass.VoTT">
+    <Position X="28.75" Y="0.75" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="MangaKB.Classlar.JsonClass.VoTT.providerOptions">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\VoTT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.VoTT.Connection">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\VoTT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.VoTT.tag">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\VoTT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.VoTT.size">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\VoTT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.VoTT.assets">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\VoTT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.VoTT.exportFormat">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\VoTT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MangaKB.Classlar.JsonClass.VoTT.root">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonClass\VoTT.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAIAjAQQAAAAAEAAAAAAAAAAAQA=</HashCode>
+      <FileName>Classlar\JsonClass\VoTT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MangaKB.Classlar.JsonMain">
+    <Position X="10.5" Y="0.75" Width="6" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="MangaKB.Classlar.JsonMain.InfoClass">
+        <TypeIdentifier>
+          <NewMemberFileName>Classlar\JsonMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <AssociationLine Name="AssetJsonClass" Type="MangaKB.Classlar.JsonClass.AssetJson" ManuallyRouted="true">
+      <Path>
+        <Point X="15.094" Y="0.75" />
+        <Point X="15.094" Y="0.391" />
+        <Point X="25.25" Y="0.391" />
+        <Point X="25.25" Y="0.75" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="VoTTClass" Type="MangaKB.Classlar.JsonClass.VoTT" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="13.5" Y="0.75" />
+        <Point X="13.5" Y="0.243" />
+        <Point X="30.75" Y="0.243" />
+        <Point X="30.75" Y="0.75" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>gAAIAIACAAEAAAIwgAIAjAQQAAAAAFIAAAAAAEAAEQA=</HashCode>
+      <FileName>Classlar\JsonMain.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="AssetJsonClass" />
+      <Field Name="ExportClass" />
+      <Field Name="LocationClass" />
+      <Field Name="VoTTClass" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MangaKB.Classlar.Tag">
+    <Position X="2" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAA=</HashCode>
+      <FileName>Classlar\Yardim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MangaKB.Classlar.Box">
+    <Position X="2" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAgAAAAAAAAAEAAAAAIAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Classlar\Yardim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MangaKB.Classlar.Frame">
+    <Position X="6.25" Y="7.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Classlar\Yardim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MangaKB.Classlar.CommonMethods">
+    <Position X="5.5" Y="1" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AQgQCCAgAIQAAAgARRgCAAAACAAAANABCAACBAAAACQ=</HashCode>
+      <FileName>Classlar\Yardim.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="tag" />
+      <Field Name="json" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="ListButton" />
+      <Field Name="Boxs" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

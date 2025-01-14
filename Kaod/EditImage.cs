@@ -281,8 +281,6 @@ namespace MangaKB
 
             PictureBox pictureBox = sender as PictureBox;
 
-            bttnExport.Text = pictureBox.Tag.ToString();
-
             CornersRemove(panel3);
 
             pictureBoxindex = Convert.ToInt32(pictureBox.Tag);

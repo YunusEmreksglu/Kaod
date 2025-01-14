@@ -59,8 +59,10 @@ namespace MangaKB
         {
             JsonMain.LocationInfo(listBox1.SelectedIndex);
             Form1 form1 = new Form1();
-            form1.ShowDialog();
             this.Hide();
+            form1.ShowDialog();
+            this.Close();
+
         }
 
         private void llAdd_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

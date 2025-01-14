@@ -42,6 +42,7 @@
             bttnTagAdd = new Button();
             textBox1 = new TextBox();
             bttnTagRemove = new Button();
+            comboBox1 = new ComboBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             panlPicturbox.SuspendLayout();
             SuspendLayout();
@@ -122,7 +123,7 @@
             // 
             // bttnSelectDelete
             // 
-            bttnSelectDelete.Location = new Point(566, 59);
+            bttnSelectDelete.Location = new Point(567, 50);
             bttnSelectDelete.Name = "bttnSelectDelete";
             bttnSelectDelete.Size = new Size(102, 23);
             bttnSelectDelete.TabIndex = 11;
@@ -177,12 +178,22 @@
             bttnTagRemove.UseVisualStyleBackColor = true;
             bttnTagRemove.Click += bttnTagRemove_Click;
             // 
+            // comboBox1
+            // 
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Location = new Point(356, 59);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(121, 23);
+            comboBox1.TabIndex = 17;
+            comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             AutoScroll = true;
             ClientSize = new Size(706, 851);
+            Controls.Add(comboBox1);
             Controls.Add(bttnTagRemove);
             Controls.Add(textBox1);
             Controls.Add(bttnTagAdd);
@@ -221,5 +232,6 @@
         private Button bttnTagAdd;
         private TextBox textBox1;
         private Button bttnTagRemove;
+        private ComboBox comboBox1;
     }
 }
